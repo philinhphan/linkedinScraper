@@ -1,0 +1,1039 @@
+2025-03-14 11:15:17,402 - INFO - Starting LinkedIn profile scraper
+2025-03-14 11:15:17,406 - INFO - Loaded CSV with 1 profiles
+2025-03-14 11:15:17,406 - INFO - Setting up Chrome driver
+2025-03-14 11:15:17,406 - INFO - ====== WebDriver manager ======
+2025-03-14 11:15:17,611 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 11:15:17,790 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 11:15:18,014 - INFO - Driver [/Users/philinh/.wdm/drivers/chromedriver/mac64/134.0.6998.88/chromedriver-mac-arm64/chromedriver] found in cache
+2025-03-14 11:15:19,536 - INFO - Attempting to log in to LinkedIn
+2025-03-14 11:15:23,194 - INFO - Email entered successfully
+2025-03-14 11:15:23,368 - INFO - Password entered successfully
+2025-03-14 11:15:32,203 - INFO - Login form submitted
+2025-03-14 11:15:37,224 - INFO - Login successful
+2025-03-14 11:15:37,237 - INFO - Processing profile: https://www.linkedin.com/in/akkshay/
+2025-03-14 11:15:37,237 - INFO - Scraping profile: https://www.linkedin.com/in/akkshay/
+2025-03-14 11:15:38,911 - INFO - Navigated to profile URL: https://www.linkedin.com/in/akkshay/
+2025-03-14 11:15:46,933 - INFO - Current URL after navigation: https://www.linkedin.com/in/akkshay/
+2025-03-14 11:15:47,046 - INFO - Page source saved to profile_page.html
+2025-03-14 11:15:47,051 - INFO - Attempting to extract name
+2025-03-14 11:15:47,083 - INFO - Name extracted: Akkshay Khoslaa using selector: div.ph5.pb5 h1
+2025-03-14 11:15:47,083 - INFO - Attempting to extract headline
+2025-03-14 11:15:47,095 - INFO - Headline extracted: Co-Founder & CEO Asha Health (YC F24) | Ex-Google, Ex-Facebook using selector: div.text-body-medium.break-words
+2025-03-14 11:15:47,095 - INFO - Attempting to extract experience section
+2025-03-14 11:15:47,101 - INFO - Found experience section by ID
+2025-03-14 11:15:47,107 - INFO - Experience section HTML: <div id="experience" class="pv-profile-card__anchor">
+          </div>...
+2025-03-14 11:15:47,113 - WARNING - No experience items found with selector: li.artdeco-list__item
+2025-03-14 11:15:47,119 - WARNING - No experience items found with selector: div.pvs-entity
+2025-03-14 11:15:47,124 - WARNING - No experience items found with selector: div.display-flex
+2025-03-14 11:15:47,124 - WARNING - Could not find any experience items with any selector
+2025-03-14 11:15:47,124 - INFO - Attempting to extract education section
+2025-03-14 11:15:47,130 - INFO - Found education section by ID
+2025-03-14 11:15:47,133 - INFO - Education section HTML: <div id="education" class="pv-profile-card__anchor">
+          </div>...
+2025-03-14 11:15:47,136 - WARNING - No education items found with selector: li.artdeco-list__item
+2025-03-14 11:15:47,140 - WARNING - No education items found with selector: div.pvs-entity
+2025-03-14 11:15:47,143 - WARNING - No education items found with selector: div.display-flex
+2025-03-14 11:15:47,143 - WARNING - Could not find any education items with any selector
+2025-03-14 11:15:47,143 - INFO - Finished scraping profile. Data extracted: {"profile_url": "https://www.linkedin.com/in/akkshay/", "name": "Akkshay Khoslaa", "headline": "Co-Founder & CEO Asha Health (YC F24) | Ex-Google, Ex-Facebook", "experiences": [], "education": []}
+2025-03-14 11:15:47,143 - INFO - Successfully scraped: Akkshay Khoslaa | https://www.linkedin.com/in/akkshay/
+2025-03-14 11:15:47,143 - INFO - Waiting 10 seconds before next profile
+2025-03-14 11:15:57,279 - INFO - Chrome driver closed
+2025-03-14 11:15:57,292 - INFO - Scraping completed. Data saved to founder_profile_data.csv
+2025-03-14 14:16:16,677 - INFO - Starting LinkedIn profile scraper
+2025-03-14 14:16:16,679 - INFO - Loaded CSV with 1 profiles
+2025-03-14 14:16:16,679 - INFO - Setting up Chrome driver
+2025-03-14 14:16:16,679 - INFO - ====== WebDriver manager ======
+2025-03-14 14:16:16,800 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 14:16:16,983 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 14:16:17,104 - INFO - Driver [/Users/philinh/.wdm/drivers/chromedriver/mac64/134.0.6998.88/chromedriver-mac-arm64/chromedriver] found in cache
+2025-03-14 14:16:18,609 - INFO - Attempting to log in to LinkedIn
+2025-03-14 14:16:22,013 - INFO - Email entered successfully
+2025-03-14 14:16:22,219 - INFO - Password entered successfully
+2025-03-14 14:16:25,588 - INFO - Login form submitted
+2025-03-14 14:16:30,610 - INFO - Login successful
+2025-03-14 14:16:30,619 - INFO - Processing profile: https://www.linkedin.com/in/akkshay/
+2025-03-14 14:16:30,619 - INFO - Scraping profile: https://www.linkedin.com/in/akkshay/
+2025-03-14 14:16:32,262 - INFO - Navigated to profile URL: https://www.linkedin.com/in/akkshay/
+2025-03-14 14:16:40,283 - INFO - Current URL after navigation: https://www.linkedin.com/in/akkshay/
+2025-03-14 14:16:40,372 - INFO - Page source saved to profile_page.html
+2025-03-14 14:16:40,376 - INFO - Attempting to extract name
+2025-03-14 14:16:40,396 - INFO - Name extracted: Akkshay Khoslaa using selector: div.ph5.pb5 h1
+2025-03-14 14:16:40,399 - INFO - Attempting to extract headline
+2025-03-14 14:16:40,408 - INFO - Headline extracted: Co-Founder & CEO Asha Health (YC F24) | Ex-Google, Ex-Facebook using selector: div.text-body-medium.break-words
+2025-03-14 14:16:40,408 - INFO - Attempting to extract experience section
+2025-03-14 14:16:40,413 - INFO - Found 13 section elements on the page
+2025-03-14 14:16:40,439 - INFO - Found experience section with header at index 3
+2025-03-14 14:16:40,443 - INFO - Experience section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="experience" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Experience<!----></span><span class="visually-hidden"><!---->Experience<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOu...
+2025-03-14 14:16:40,449 - INFO - Found 5 experience items using artdeco-list__item
+2025-03-14 14:16:40,449 - INFO - Processing experience item 1
+2025-03-14 14:16:40,461 - INFO - Title extracted: Co-Founder & CEO
+Co-Founder & CEO using selector: div.mr1.t-bold
+2025-03-14 14:16:40,471 - INFO - Company extracted: Asha Health (YC F24) using selector: span.t-14.t-normal
+2025-03-14 14:16:40,480 - INFO - Date range extracted: Jun 2024 - Present · 10 mos
+Jun 2024 to Present · 10 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:16:40,480 - INFO - Added experience item 1: {"title": "Co-Founder & CEO\nCo-Founder & CEO", "company": "Asha Health (YC F24)", "employment_type": "Full-time\nAsha Health (YC F24)", "date_range": "Jun 2024 - Present \u00b7 10 mos\nJun 2024 to Present \u00b7 10 mos"}
+2025-03-14 14:16:40,480 - INFO - Processing experience item 2
+2025-03-14 14:16:40,490 - INFO - Title extracted: Product, Generative AI
+Product, Generative AI using selector: div.mr1.t-bold
+2025-03-14 14:16:40,496 - INFO - Company extracted: Google using selector: span.t-14.t-normal
+2025-03-14 14:16:40,503 - INFO - Date range extracted: Apr 2022 - Nov 2023 · 1 yr 8 mos
+Apr 2022 to Nov 2023 · 1 yr 8 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:16:40,503 - INFO - Added experience item 2: {"title": "Product, Generative AI\nProduct, Generative AI", "company": "Google", "employment_type": "Full-time\nGoogle", "date_range": "Apr 2022 - Nov 2023 \u00b7 1 yr 8 mos\nApr 2022 to Nov 2023 \u00b7 1 yr 8 mos"}
+2025-03-14 14:16:40,503 - INFO - Processing experience item 3
+2025-03-14 14:16:40,518 - INFO - Title extracted: Co-Founder/CEO
+Co-Founder/CEO using selector: div.mr1.t-bold
+2025-03-14 14:16:40,525 - INFO - Company extracted: Aspire Learning using selector: span.t-14.t-normal
+2025-03-14 14:16:40,532 - INFO - Date range extracted: Aug 2020 - Jan 2022 · 1 yr 6 mos
+Aug 2020 to Jan 2022 · 1 yr 6 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:16:40,533 - INFO - Added experience item 3: {"title": "Co-Founder/CEO\nCo-Founder/CEO", "company": "Aspire Learning", "employment_type": "Full-time\nAspire Learning", "date_range": "Aug 2020 - Jan 2022 \u00b7 1 yr 6 mos\nAug 2020 to Jan 2022 \u00b7 1 yr 6 mos"}
+2025-03-14 14:16:40,533 - INFO - Processing experience item 4
+2025-03-14 14:16:40,543 - INFO - Title extracted: Founder Fellow
+Founder Fellow using selector: div.mr1.t-bold
+2025-03-14 14:16:40,552 - INFO - Company extracted: On Deck
+On Deck using selector: span.t-14.t-normal
+2025-03-14 14:16:40,561 - INFO - Date range extracted: 2020 - 2020 · Less than a year
+2020 to 2020 · Less than a year using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:16:40,561 - INFO - Added experience item 4: {"title": "Founder Fellow\nFounder Fellow", "company": "On Deck\nOn Deck", "employment_type": "", "date_range": "2020 - 2020 \u00b7 Less than a year\n2020 to 2020 \u00b7 Less than a year"}
+2025-03-14 14:16:40,561 - INFO - Processing experience item 5
+2025-03-14 14:16:40,599 - INFO - Title extracted: Engineering & Product
+Engineering & Product using selector: div.mr1.t-bold
+2025-03-14 14:16:40,681 - INFO - Company extracted: Facebook
+Facebook using selector: span.t-14.t-normal
+2025-03-14 14:16:40,692 - INFO - Date range extracted: 2018 - 2020 · 2 yrs
+2018 to 2020 · 2 yrs using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:16:40,692 - INFO - Added experience item 5: {"title": "Engineering & Product\nEngineering & Product", "company": "Facebook\nFacebook", "employment_type": "", "date_range": "2018 - 2020 \u00b7 2 yrs\n2018 to 2020 \u00b7 2 yrs"}
+2025-03-14 14:16:40,692 - INFO - Attempting to extract education section
+2025-03-14 14:16:40,727 - INFO - Found education section with header at index 4
+2025-03-14 14:16:40,730 - INFO - Education section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="education" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOuDjd...
+2025-03-14 14:16:40,734 - INFO - Found 2 education items using artdeco-list__item
+2025-03-14 14:16:40,734 - INFO - Processing education item 1
+2025-03-14 14:16:40,745 - INFO - School extracted: Y Combinator
+Y Combinator using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:16:40,753 - INFO - Degree extracted: 2024
+2024 using selector: span.t-14.t-normal
+2025-03-14 14:16:40,760 - INFO - Date range extracted: 2024
+2024 using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:16:40,760 - INFO - Added education item 1: {"school": "Y Combinator\nY Combinator", "degree": "2024\n2024", "date_range": "2024\n2024"}
+2025-03-14 14:16:40,760 - INFO - Processing education item 2
+2025-03-14 14:16:40,770 - INFO - School extracted: University of California, Berkeley
+University of California, Berkeley using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:16:40,777 - INFO - Degree extracted: Electrical Engineering and Computer Science (EECS)
+Electrical Engineering and Computer Science (EECS) using selector: span.t-14.t-normal
+2025-03-14 14:16:40,796 - INFO - Date range extracted from text: Electrical Engineering and Computer Science (EECS)
+2025-03-14 14:16:40,796 - INFO - Added education item 2: {"school": "University of California, Berkeley\nUniversity of California, Berkeley", "degree": "Electrical Engineering and Computer Science (EECS)\nElectrical Engineering and Computer Science (EECS)", "date_range": "Electrical Engineering and Computer Science (EECS)"}
+2025-03-14 14:16:40,796 - INFO - Finished scraping profile. Data extracted: {"profile_url": "https://www.linkedin.com/in/akkshay/", "name": "Akkshay Khoslaa", "headline": "Co-Founder & CEO Asha Health (YC F24) | Ex-Google, Ex-Facebook", "experiences": [{"title": "Co-Founder & CEO\nCo-Founder & CEO", "company": "Asha Health (YC F24)", "employment_type": "Full-time\nAsha Health (YC F24)", "date_range": "Jun 2024 - Present \u00b7 10 mos\nJun 2024 to Present \u00b7 10 mos"}, {"title": "Product, Generative AI\nProduct, Generative AI", "company": "Google", "employment_type": "Full-time\nGoogle", "date_range": "Apr 2022 - Nov 2023 \u00b7 1 yr 8 mos\nApr 2022 to Nov 2023 \u00b7 1 yr 8 mos"}, {"title": "Co-Founder/CEO\nCo-Founder/CEO", "company": "Aspire Learning", "employment_type": "Full-time\nAspire Learning", "date_range": "Aug 2020 - Jan 2022 \u00b7 1 yr 6 mos\nAug 2020 to Jan 2022 \u00b7 1 yr 6 mos"}, {"title": "Founder Fellow\nFounder Fellow", "company": "On Deck\nOn Deck", "employment_type": "", "date_range": "2020 - 2020 \u00b7 Less than a year\n2020 to 2020 \u00b7 Less than a year"}, {"title": "Engineering & Product\nEngineering & Product", "company": "Facebook\nFacebook", "employment_type": "", "date_range": "2018 - 2020 \u00b7 2 yrs\n2018 to 2020 \u00b7 2 yrs"}], "education": [{"school": "Y Combinator\nY Combinator", "degree": "2024\n2024", "date_range": "2024\n2024"}, {"school": "University of California, Berkeley\nUniversity of California, Berkeley", "degree": "Electrical Engineering and Computer Science (EECS)\nElectrical Engineering and Computer Science (EECS)", "date_range": "Electrical Engineering and Computer Science (EECS)"}]}
+2025-03-14 14:16:40,796 - INFO - Successfully scraped: Akkshay Khoslaa | https://www.linkedin.com/in/akkshay/
+2025-03-14 14:16:40,796 - INFO - Waiting 10 seconds before next profile
+2025-03-14 14:16:50,927 - INFO - Chrome driver closed
+2025-03-14 14:16:50,938 - INFO - Scraping completed. Data saved to founder_profile_data.csv
+2025-03-14 14:22:45,247 - INFO - Starting LinkedIn profile scraper
+2025-03-14 14:22:45,250 - INFO - Loaded CSV with 3 profiles
+2025-03-14 14:22:45,250 - INFO - Setting up Chrome driver
+2025-03-14 14:22:45,250 - INFO - ====== WebDriver manager ======
+2025-03-14 14:22:45,453 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 14:22:45,589 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 14:22:45,697 - INFO - Driver [/Users/philinh/.wdm/drivers/chromedriver/mac64/134.0.6998.88/chromedriver-mac-arm64/chromedriver] found in cache
+2025-03-14 14:22:47,389 - INFO - Attempting to log in to LinkedIn
+2025-03-14 14:22:50,718 - INFO - Email entered successfully
+2025-03-14 14:22:50,751 - INFO - Password entered successfully
+2025-03-14 14:22:53,554 - INFO - Login form submitted
+2025-03-14 14:22:58,571 - INFO - Login successful
+2025-03-14 14:22:58,577 - INFO - Processing profile: https://www.linkedin.com/in/akkshay/
+2025-03-14 14:22:58,577 - INFO - Scraping profile: https://www.linkedin.com/in/akkshay/
+2025-03-14 14:23:00,175 - INFO - Navigated to profile URL: https://www.linkedin.com/in/akkshay/
+2025-03-14 14:23:08,195 - INFO - Current URL after navigation: https://www.linkedin.com/in/akkshay/
+2025-03-14 14:23:08,276 - INFO - Page source saved to profile_page.html
+2025-03-14 14:23:08,280 - INFO - Attempting to extract name
+2025-03-14 14:23:08,298 - INFO - Name extracted: Akkshay Khoslaa using selector: div.ph5.pb5 h1
+2025-03-14 14:23:08,299 - INFO - Attempting to extract headline
+2025-03-14 14:23:08,308 - INFO - Headline extracted: Co-Founder & CEO Asha Health (YC F24) | Ex-Google, Ex-Facebook using selector: div.text-body-medium.break-words
+2025-03-14 14:23:08,308 - INFO - Attempting to extract experience section
+2025-03-14 14:23:08,313 - INFO - Found 13 section elements on the page
+2025-03-14 14:23:08,341 - INFO - Found experience section with header at index 3
+2025-03-14 14:23:08,346 - INFO - Experience section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="experience" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Experience<!----></span><span class="visually-hidden"><!---->Experience<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOu...
+2025-03-14 14:23:08,353 - INFO - Found 5 experience items using artdeco-list__item
+2025-03-14 14:23:08,353 - INFO - Processing experience item 1
+2025-03-14 14:23:08,368 - INFO - Title extracted: Co-Founder & CEO
+Co-Founder & CEO using selector: div.mr1.t-bold
+2025-03-14 14:23:08,377 - INFO - Company extracted: Asha Health (YC F24) using selector: span.t-14.t-normal
+2025-03-14 14:23:08,389 - INFO - Date range extracted: Jun 2024 - Present · 10 mos
+Jun 2024 to Present · 10 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:08,389 - INFO - Added experience item 1: {"title": "Co-Founder & CEO\nCo-Founder & CEO", "company": "Asha Health (YC F24)", "employment_type": "Full-time\nAsha Health (YC F24)", "date_range": "Jun 2024 - Present \u00b7 10 mos\nJun 2024 to Present \u00b7 10 mos"}
+2025-03-14 14:23:08,389 - INFO - Processing experience item 2
+2025-03-14 14:23:08,399 - INFO - Title extracted: Product, Generative AI
+Product, Generative AI using selector: div.mr1.t-bold
+2025-03-14 14:23:08,407 - INFO - Company extracted: Google using selector: span.t-14.t-normal
+2025-03-14 14:23:08,415 - INFO - Date range extracted: Apr 2022 - Nov 2023 · 1 yr 8 mos
+Apr 2022 to Nov 2023 · 1 yr 8 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:08,415 - INFO - Added experience item 2: {"title": "Product, Generative AI\nProduct, Generative AI", "company": "Google", "employment_type": "Full-time\nGoogle", "date_range": "Apr 2022 - Nov 2023 \u00b7 1 yr 8 mos\nApr 2022 to Nov 2023 \u00b7 1 yr 8 mos"}
+2025-03-14 14:23:08,415 - INFO - Processing experience item 3
+2025-03-14 14:23:08,425 - INFO - Title extracted: Co-Founder/CEO
+Co-Founder/CEO using selector: div.mr1.t-bold
+2025-03-14 14:23:08,433 - INFO - Company extracted: Aspire Learning using selector: span.t-14.t-normal
+2025-03-14 14:23:08,441 - INFO - Date range extracted: Aug 2020 - Jan 2022 · 1 yr 6 mos
+Aug 2020 to Jan 2022 · 1 yr 6 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:08,442 - INFO - Added experience item 3: {"title": "Co-Founder/CEO\nCo-Founder/CEO", "company": "Aspire Learning", "employment_type": "Full-time\nAspire Learning", "date_range": "Aug 2020 - Jan 2022 \u00b7 1 yr 6 mos\nAug 2020 to Jan 2022 \u00b7 1 yr 6 mos"}
+2025-03-14 14:23:08,442 - INFO - Processing experience item 4
+2025-03-14 14:23:08,452 - INFO - Title extracted: Founder Fellow
+Founder Fellow using selector: div.mr1.t-bold
+2025-03-14 14:23:08,459 - INFO - Company extracted: On Deck
+On Deck using selector: span.t-14.t-normal
+2025-03-14 14:23:08,467 - INFO - Date range extracted: 2020 - 2020 · Less than a year
+2020 to 2020 · Less than a year using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:08,467 - INFO - Added experience item 4: {"title": "Founder Fellow\nFounder Fellow", "company": "On Deck\nOn Deck", "employment_type": "", "date_range": "2020 - 2020 \u00b7 Less than a year\n2020 to 2020 \u00b7 Less than a year"}
+2025-03-14 14:23:08,467 - INFO - Processing experience item 5
+2025-03-14 14:23:08,478 - INFO - Title extracted: Engineering & Product
+Engineering & Product using selector: div.mr1.t-bold
+2025-03-14 14:23:08,485 - INFO - Company extracted: Facebook
+Facebook using selector: span.t-14.t-normal
+2025-03-14 14:23:08,494 - INFO - Date range extracted: 2018 - 2020 · 2 yrs
+2018 to 2020 · 2 yrs using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:08,494 - INFO - Added experience item 5: {"title": "Engineering & Product\nEngineering & Product", "company": "Facebook\nFacebook", "employment_type": "", "date_range": "2018 - 2020 \u00b7 2 yrs\n2018 to 2020 \u00b7 2 yrs"}
+2025-03-14 14:23:08,494 - INFO - Attempting to extract education section
+2025-03-14 14:23:08,526 - INFO - Found education section with header at index 4
+2025-03-14 14:23:08,529 - INFO - Education section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="education" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOuDjd...
+2025-03-14 14:23:08,532 - INFO - Found 2 education items using artdeco-list__item
+2025-03-14 14:23:08,532 - INFO - Processing education item 1
+2025-03-14 14:23:08,544 - INFO - School extracted: Y Combinator
+Y Combinator using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:23:08,552 - INFO - Degree extracted: 2024
+2024 using selector: span.t-14.t-normal
+2025-03-14 14:23:08,560 - INFO - Date range extracted: 2024
+2024 using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:08,560 - INFO - Added education item 1: {"school": "Y Combinator\nY Combinator", "degree": "2024\n2024", "date_range": "2024\n2024"}
+2025-03-14 14:23:08,560 - INFO - Processing education item 2
+2025-03-14 14:23:08,571 - INFO - School extracted: University of California, Berkeley
+University of California, Berkeley using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:23:08,578 - INFO - Degree extracted: Electrical Engineering and Computer Science (EECS)
+Electrical Engineering and Computer Science (EECS) using selector: span.t-14.t-normal
+2025-03-14 14:23:08,598 - INFO - Date range extracted from text: Electrical Engineering and Computer Science (EECS)
+2025-03-14 14:23:08,599 - INFO - Added education item 2: {"school": "University of California, Berkeley\nUniversity of California, Berkeley", "degree": "Electrical Engineering and Computer Science (EECS)\nElectrical Engineering and Computer Science (EECS)", "date_range": "Electrical Engineering and Computer Science (EECS)"}
+2025-03-14 14:23:08,599 - INFO - Finished scraping profile. Data extracted: {"profile_url": "https://www.linkedin.com/in/akkshay/", "name": "Akkshay Khoslaa", "headline": "Co-Founder & CEO Asha Health (YC F24) | Ex-Google, Ex-Facebook", "experiences": [{"title": "Co-Founder & CEO\nCo-Founder & CEO", "company": "Asha Health (YC F24)", "employment_type": "Full-time\nAsha Health (YC F24)", "date_range": "Jun 2024 - Present \u00b7 10 mos\nJun 2024 to Present \u00b7 10 mos"}, {"title": "Product, Generative AI\nProduct, Generative AI", "company": "Google", "employment_type": "Full-time\nGoogle", "date_range": "Apr 2022 - Nov 2023 \u00b7 1 yr 8 mos\nApr 2022 to Nov 2023 \u00b7 1 yr 8 mos"}, {"title": "Co-Founder/CEO\nCo-Founder/CEO", "company": "Aspire Learning", "employment_type": "Full-time\nAspire Learning", "date_range": "Aug 2020 - Jan 2022 \u00b7 1 yr 6 mos\nAug 2020 to Jan 2022 \u00b7 1 yr 6 mos"}, {"title": "Founder Fellow\nFounder Fellow", "company": "On Deck\nOn Deck", "employment_type": "", "date_range": "2020 - 2020 \u00b7 Less than a year\n2020 to 2020 \u00b7 Less than a year"}, {"title": "Engineering & Product\nEngineering & Product", "company": "Facebook\nFacebook", "employment_type": "", "date_range": "2018 - 2020 \u00b7 2 yrs\n2018 to 2020 \u00b7 2 yrs"}], "education": [{"school": "Y Combinator\nY Combinator", "degree": "2024\n2024", "date_range": "2024\n2024"}, {"school": "University of California, Berkeley\nUniversity of California, Berkeley", "degree": "Electrical Engineering and Computer Science (EECS)\nElectrical Engineering and Computer Science (EECS)", "date_range": "Electrical Engineering and Computer Science (EECS)"}]}
+2025-03-14 14:23:08,599 - INFO - Successfully scraped: Akkshay Khoslaa | https://www.linkedin.com/in/akkshay/
+2025-03-14 14:23:08,599 - INFO - Waiting 10 seconds before next profile
+2025-03-14 14:23:18,605 - INFO - Processing profile: https://www.linkedin.com/in/gokul-kumarresen/
+2025-03-14 14:23:18,607 - INFO - Scraping profile: https://www.linkedin.com/in/gokul-kumarresen/
+2025-03-14 14:23:20,064 - INFO - Navigated to profile URL: https://www.linkedin.com/in/gokul-kumarresen/
+2025-03-14 14:23:28,112 - INFO - Current URL after navigation: https://www.linkedin.com/in/gokul-kumarresen/
+2025-03-14 14:23:28,181 - INFO - Page source saved to profile_page.html
+2025-03-14 14:23:28,185 - INFO - Attempting to extract name
+2025-03-14 14:23:28,202 - INFO - Name extracted: Gokul Kumarresen using selector: div.ph5.pb5 h1
+2025-03-14 14:23:28,202 - INFO - Attempting to extract headline
+2025-03-14 14:23:28,210 - INFO - Headline extracted: Co-Founder/CTO @ Asha Health (YC F24) | ex-Brex using selector: div.text-body-medium.break-words
+2025-03-14 14:23:28,210 - INFO - Attempting to extract experience section
+2025-03-14 14:23:28,214 - INFO - Found 11 section elements on the page
+2025-03-14 14:23:28,292 - INFO - Found experience section with header at index 2
+2025-03-14 14:23:28,295 - INFO - Experience section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="experience" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Experience<!----></span><span class="visually-hidden"><!---->Experience<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOu...
+2025-03-14 14:23:28,299 - INFO - Found 5 experience items using artdeco-list__item
+2025-03-14 14:23:28,300 - INFO - Processing experience item 1
+2025-03-14 14:23:28,310 - INFO - Title extracted: Co-Founder & CTO
+Co-Founder & CTO using selector: div.mr1.t-bold
+2025-03-14 14:23:28,317 - INFO - Company extracted: Asha Health (YC F24) using selector: span.t-14.t-normal
+2025-03-14 14:23:28,325 - INFO - Date range extracted: Sep 2024 - Present · 7 mos
+Sep 2024 to Present · 7 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:28,325 - INFO - Added experience item 1: {"title": "Co-Founder & CTO\nCo-Founder & CTO", "company": "Asha Health (YC F24)", "employment_type": "Full-time\nAsha Health (YC F24)", "date_range": "Sep 2024 - Present \u00b7 7 mos\nSep 2024 to Present \u00b7 7 mos"}
+2025-03-14 14:23:28,325 - INFO - Processing experience item 2
+2025-03-14 14:23:28,334 - INFO - Title extracted: Engineering, Growth
+Engineering, Growth using selector: div.mr1.t-bold
+2025-03-14 14:23:28,342 - INFO - Company extracted: Brex using selector: span.t-14.t-normal
+2025-03-14 14:23:28,349 - INFO - Date range extracted: Jun 2022 - Sep 2024 · 2 yrs 4 mos
+Jun 2022 to Sep 2024 · 2 yrs 4 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:28,350 - INFO - Added experience item 2: {"title": "Engineering, Growth\nEngineering, Growth", "company": "Brex", "employment_type": "Full-time\nBrex", "date_range": "Jun 2022 - Sep 2024 \u00b7 2 yrs 4 mos\nJun 2022 to Sep 2024 \u00b7 2 yrs 4 mos"}
+2025-03-14 14:23:28,350 - INFO - Processing experience item 3
+2025-03-14 14:23:28,360 - INFO - Title extracted: Co-Founder & CTO
+Co-Founder & CTO using selector: div.mr1.t-bold
+2025-03-14 14:23:28,368 - INFO - Company extracted: Aspire Learning using selector: span.t-14.t-normal
+2025-03-14 14:23:28,376 - INFO - Date range extracted: Jan 2021 - Jan 2022 · 1 yr 1 mo
+Jan 2021 to Jan 2022 · 1 yr 1 mo using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:28,376 - INFO - Added experience item 3: {"title": "Co-Founder & CTO\nCo-Founder & CTO", "company": "Aspire Learning", "employment_type": "Full-time\nAspire Learning", "date_range": "Jan 2021 - Jan 2022 \u00b7 1 yr 1 mo\nJan 2021 to Jan 2022 \u00b7 1 yr 1 mo"}
+2025-03-14 14:23:28,376 - INFO - Processing experience item 4
+2025-03-14 14:23:28,387 - INFO - Title extracted: Engineering
+Engineering using selector: div.mr1.t-bold
+2025-03-14 14:23:28,394 - INFO - Company extracted: Salesforce using selector: span.t-14.t-normal
+2025-03-14 14:23:28,402 - INFO - Date range extracted: Jun 2019 - Jan 2021 · 1 yr 8 mos
+Jun 2019 to Jan 2021 · 1 yr 8 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:28,403 - INFO - Added experience item 4: {"title": "Engineering\nEngineering", "company": "Salesforce", "employment_type": "Full-time\nSalesforce", "date_range": "Jun 2019 - Jan 2021 \u00b7 1 yr 8 mos\nJun 2019 to Jan 2021 \u00b7 1 yr 8 mos"}
+2025-03-14 14:23:28,403 - INFO - Processing experience item 5
+2025-03-14 14:23:28,412 - INFO - Title extracted: Engineering, AI
+Engineering, AI using selector: div.mr1.t-bold
+2025-03-14 14:23:28,420 - INFO - Company extracted: IBM using selector: span.t-14.t-normal
+2025-03-14 14:23:28,427 - INFO - Date range extracted: Jan 2017 - Aug 2017 · 8 mos
+Jan 2017 to Aug 2017 · 8 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:28,427 - INFO - Added experience item 5: {"title": "Engineering, AI\nEngineering, AI", "company": "IBM", "employment_type": "Internship\nIBM", "date_range": "Jan 2017 - Aug 2017 \u00b7 8 mos\nJan 2017 to Aug 2017 \u00b7 8 mos"}
+2025-03-14 14:23:28,427 - INFO - Attempting to extract education section
+2025-03-14 14:23:28,454 - INFO - Found education section with header at index 3
+2025-03-14 14:23:28,457 - INFO - Education section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="education" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOuDjd...
+2025-03-14 14:23:28,460 - INFO - Found 2 education items using artdeco-list__item
+2025-03-14 14:23:28,460 - INFO - Processing education item 1
+2025-03-14 14:23:28,471 - INFO - School extracted: Y Combinator
+Y Combinator using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:23:28,478 - INFO - Degree extracted: Sep 2024 - Dec 2024
+Sep 2024 - Dec 2024 using selector: span.t-14.t-normal
+2025-03-14 14:23:28,486 - INFO - Date range extracted: Sep 2024 - Dec 2024
+Sep 2024 - Dec 2024 using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:28,486 - INFO - Added education item 1: {"school": "Y Combinator\nY Combinator", "degree": "Sep 2024 - Dec 2024\nSep 2024 - Dec 2024", "date_range": "Sep 2024 - Dec 2024\nSep 2024 - Dec 2024"}
+2025-03-14 14:23:28,486 - INFO - Processing education item 2
+2025-03-14 14:23:28,496 - INFO - School extracted: Penn State University
+Penn State University using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:23:28,505 - INFO - Degree extracted: Bachelor's degree, Computer Science
+Bachelor's degree, Computer Science using selector: span.t-14.t-normal
+2025-03-14 14:23:28,512 - INFO - Date range extracted: 2014 - 2019
+2014 - 2019 using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:28,512 - INFO - Added education item 2: {"school": "Penn State University\nPenn State University", "degree": "Bachelor's degree, Computer Science\nBachelor's degree, Computer Science", "date_range": "2014 - 2019\n2014 - 2019"}
+2025-03-14 14:23:28,512 - INFO - Finished scraping profile. Data extracted: {"profile_url": "https://www.linkedin.com/in/gokul-kumarresen/", "name": "Gokul Kumarresen", "headline": "Co-Founder/CTO @ Asha Health (YC F24) | ex-Brex", "experiences": [{"title": "Co-Founder & CTO\nCo-Founder & CTO", "company": "Asha Health (YC F24)", "employment_type": "Full-time\nAsha Health (YC F24)", "date_range": "Sep 2024 - Present \u00b7 7 mos\nSep 2024 to Present \u00b7 7 mos"}, {"title": "Engineering, Growth\nEngineering, Growth", "company": "Brex", "employment_type": "Full-time\nBrex", "date_range": "Jun 2022 - Sep 2024 \u00b7 2 yrs 4 mos\nJun 2022 to Sep 2024 \u00b7 2 yrs 4 mos"}, {"title": "Co-Founder & CTO\nCo-Founder & CTO", "company": "Aspire Learning", "employment_type": "Full-time\nAspire Learning", "date_range": "Jan 2021 - Jan 2022 \u00b7 1 yr 1 mo\nJan 2021 to Jan 2022 \u00b7 1 yr 1 mo"}, {"title": "Engineering\nEngineering", "company": "Salesforce", "employment_type": "Full-time\nSalesforce", "date_range": "Jun 2019 - Jan 2021 \u00b7 1 yr 8 mos\nJun 2019 to Jan 2021 \u00b7 1 yr 8 mos"}, {"title": "Engineering, AI\nEngineering, AI", "company": "IBM", "employment_type": "Internship\nIBM", "date_range": "Jan 2017 - Aug 2017 \u00b7 8 mos\nJan 2017 to Aug 2017 \u00b7 8 mos"}], "education": [{"school": "Y Combinator\nY Combinator", "degree": "Sep 2024 - Dec 2024\nSep 2024 - Dec 2024", "date_range": "Sep 2024 - Dec 2024\nSep 2024 - Dec 2024"}, {"school": "Penn State University\nPenn State University", "degree": "Bachelor's degree, Computer Science\nBachelor's degree, Computer Science", "date_range": "2014 - 2019\n2014 - 2019"}]}
+2025-03-14 14:23:28,512 - INFO - Successfully scraped: Gokul Kumarresen | https://www.linkedin.com/in/gokul-kumarresen/
+2025-03-14 14:23:28,512 - INFO - Waiting 15 seconds before next profile
+2025-03-14 14:23:43,518 - INFO - Processing profile: https://www.linkedin.com/in/phi-linh-phan/
+2025-03-14 14:23:43,521 - INFO - Scraping profile: https://www.linkedin.com/in/phi-linh-phan/
+2025-03-14 14:23:45,205 - INFO - Navigated to profile URL: https://www.linkedin.com/in/phi-linh-phan/
+2025-03-14 14:23:53,268 - INFO - Current URL after navigation: https://www.linkedin.com/in/phi-linh-phan/
+2025-03-14 14:23:53,328 - INFO - Page source saved to profile_page.html
+2025-03-14 14:23:53,332 - INFO - Attempting to extract name
+2025-03-14 14:23:53,349 - INFO - Name extracted: Phi Linh Phan using selector: div.ph5.pb5 h1
+2025-03-14 14:23:53,349 - INFO - Attempting to extract headline
+2025-03-14 14:23:53,358 - INFO - Headline extracted: CS & MMT @ LMU | START Munich | The Gottman Initiative using selector: div.text-body-medium.break-words
+2025-03-14 14:23:53,358 - INFO - Attempting to extract experience section
+2025-03-14 14:23:53,363 - INFO - Found 15 section elements on the page
+2025-03-14 14:23:53,387 - INFO - Found experience section with header at index 2
+2025-03-14 14:23:53,391 - INFO - Experience section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="experience" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Experience<!----></span><span class="visually-hidden"><!---->Experience<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOu...
+2025-03-14 14:23:53,397 - INFO - Found 5 experience items using artdeco-list__item
+2025-03-14 14:23:53,397 - INFO - Processing experience item 1
+2025-03-14 14:23:53,409 - INFO - Title extracted: Assoziierte:r Forscher:in
+Assoziierte:r Forscher:in using selector: div.mr1.t-bold
+2025-03-14 14:23:53,419 - INFO - Company extracted: The Gottman Initiative using selector: span.t-14.t-normal
+2025-03-14 14:23:53,429 - INFO - Date range extracted: Jan 2025 - Present · 3 mos
+Jan 2025 to Present · 3 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:53,430 - INFO - Added experience item 1: {"title": "Assoziierte:r Forscher:in\nAssoziierte:r Forscher:in", "company": "The Gottman Initiative", "employment_type": "Work Study\nThe Gottman Initiative", "date_range": "Jan 2025 - Present \u00b7 3 mos\nJan 2025 to Present \u00b7 3 mos"}
+2025-03-14 14:23:53,430 - INFO - Processing experience item 2
+2025-03-14 14:23:53,442 - INFO - Title extracted: AI & Automation Development
+AI & Automation Development using selector: div.mr1.t-bold
+2025-03-14 14:23:53,450 - INFO - Company extracted: Studicon using selector: span.t-14.t-normal
+2025-03-14 14:23:53,459 - INFO - Date range extracted: Jun 2023 - Nov 2024 · 1 yr 6 mos
+Jun 2023 to Nov 2024 · 1 yr 6 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:53,459 - INFO - Added experience item 2: {"title": "AI & Automation Development\nAI & Automation Development", "company": "Studicon", "employment_type": "Work Study\nStudicon", "date_range": "Jun 2023 - Nov 2024 \u00b7 1 yr 6 mos\nJun 2023 to Nov 2024 \u00b7 1 yr 6 mos"}
+2025-03-14 14:23:53,459 - INFO - Processing experience item 3
+2025-03-14 14:23:53,468 - INFO - Title extracted: Change Management
+Change Management using selector: div.mr1.t-bold
+2025-03-14 14:23:53,476 - INFO - Company extracted: Breitenstein Consulting using selector: span.t-14.t-normal
+2025-03-14 14:23:53,484 - INFO - Date range extracted: Apr 2023 - Jul 2023 · 4 mos
+Apr 2023 to Jul 2023 · 4 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:53,484 - INFO - Added experience item 3: {"title": "Change Management\nChange Management", "company": "Breitenstein Consulting", "employment_type": "Internship\nBreitenstein Consulting", "date_range": "Apr 2023 - Jul 2023 \u00b7 4 mos\nApr 2023 to Jul 2023 \u00b7 4 mos"}
+2025-03-14 14:23:53,484 - INFO - Processing experience item 4
+2025-03-14 14:23:53,494 - INFO - Title extracted: Product & Content Development
+Product & Content Development using selector: div.mr1.t-bold
+2025-03-14 14:23:53,502 - INFO - Company extracted: Savvi using selector: span.t-14.t-normal
+2025-03-14 14:23:53,510 - INFO - Date range extracted: Feb 2023 - Apr 2023 · 3 mos
+Feb 2023 to Apr 2023 · 3 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:53,510 - INFO - Added experience item 4: {"title": "Product & Content Development\nProduct & Content Development", "company": "Savvi", "employment_type": "Internship\nSavvi", "date_range": "Feb 2023 - Apr 2023 \u00b7 3 mos\nFeb 2023 to Apr 2023 \u00b7 3 mos"}
+2025-03-14 14:23:53,510 - INFO - Processing experience item 5
+2025-03-14 14:23:53,520 - INFO - Title extracted: Teaching Assistant
+Teaching Assistant using selector: div.mr1.t-bold
+2025-03-14 14:23:53,528 - INFO - Company extracted: Ludwig-Maximilians-Universität München using selector: span.t-14.t-normal
+2025-03-14 14:23:53,535 - INFO - Date range extracted: Oct 2020 - Mar 2023 · 2 yrs 6 mos
+Oct 2020 to Mar 2023 · 2 yrs 6 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:53,535 - INFO - Added experience item 5: {"title": "Teaching Assistant\nTeaching Assistant", "company": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", "employment_type": "Work Study\nLudwig-Maximilians-Universit\u00e4t M\u00fcnchen", "date_range": "Oct 2020 - Mar 2023 \u00b7 2 yrs 6 mos\nOct 2020 to Mar 2023 \u00b7 2 yrs 6 mos"}
+2025-03-14 14:23:53,535 - INFO - Attempting to extract education section
+2025-03-14 14:23:53,564 - INFO - Found education section with header at index 3
+2025-03-14 14:23:53,567 - INFO - Education section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="education" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOuDjd...
+2025-03-14 14:23:53,571 - INFO - Found 2 education items using artdeco-list__item
+2025-03-14 14:23:53,571 - INFO - Processing education item 1
+2025-03-14 14:23:53,582 - INFO - School extracted: Ludwig-Maximilians-Universität München
+Ludwig-Maximilians-Universität München using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:23:53,591 - INFO - Degree extracted: Master of Science - MS, CS & MMT
+Master of Science - MS, CS & MMT using selector: span.t-14.t-normal
+2025-03-14 14:23:53,598 - INFO - Date range extracted: Oct 2024
+Oct 2024 using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:53,598 - INFO - Added education item 1: {"school": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen\nLudwig-Maximilians-Universit\u00e4t M\u00fcnchen", "degree": "Master of Science - MS, CS & MMT\nMaster of Science - MS, CS & MMT", "date_range": "Oct 2024\nOct 2024"}
+2025-03-14 14:23:53,599 - INFO - Processing education item 2
+2025-03-14 14:23:53,610 - INFO - School extracted: Universidad Autónoma de Madrid
+Universidad Autónoma de Madrid using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:23:53,617 - INFO - Degree extracted: Erasmus+, Ciencias Económicas y Empresariales
+Erasmus+, Ciencias Económicas y Empresariales using selector: span.t-14.t-normal
+2025-03-14 14:23:53,625 - INFO - Date range extracted: Sep 2023 - Jan 2024
+Sep 2023 - Jan 2024 using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:23:53,625 - INFO - Added education item 2: {"school": "Universidad Aut\u00f3noma de Madrid\nUniversidad Aut\u00f3noma de Madrid", "degree": "Erasmus+, Ciencias Econ\u00f3micas y Empresariales\nErasmus+, Ciencias Econ\u00f3micas y Empresariales", "date_range": "Sep 2023 - Jan 2024\nSep 2023 - Jan 2024"}
+2025-03-14 14:23:53,626 - INFO - Finished scraping profile. Data extracted: {"profile_url": "https://www.linkedin.com/in/phi-linh-phan/", "name": "Phi Linh Phan", "headline": "CS & MMT @ LMU | START Munich | The Gottman Initiative", "experiences": [{"title": "Assoziierte:r Forscher:in\nAssoziierte:r Forscher:in", "company": "The Gottman Initiative", "employment_type": "Work Study\nThe Gottman Initiative", "date_range": "Jan 2025 - Present \u00b7 3 mos\nJan 2025 to Present \u00b7 3 mos"}, {"title": "AI & Automation Development\nAI & Automation Development", "company": "Studicon", "employment_type": "Work Study\nStudicon", "date_range": "Jun 2023 - Nov 2024 \u00b7 1 yr 6 mos\nJun 2023 to Nov 2024 \u00b7 1 yr 6 mos"}, {"title": "Change Management\nChange Management", "company": "Breitenstein Consulting", "employment_type": "Internship\nBreitenstein Consulting", "date_range": "Apr 2023 - Jul 2023 \u00b7 4 mos\nApr 2023 to Jul 2023 \u00b7 4 mos"}, {"title": "Product & Content Development\nProduct & Content Development", "company": "Savvi", "employment_type": "Internship\nSavvi", "date_range": "Feb 2023 - Apr 2023 \u00b7 3 mos\nFeb 2023 to Apr 2023 \u00b7 3 mos"}, {"title": "Teaching Assistant\nTeaching Assistant", "company": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", "employment_type": "Work Study\nLudwig-Maximilians-Universit\u00e4t M\u00fcnchen", "date_range": "Oct 2020 - Mar 2023 \u00b7 2 yrs 6 mos\nOct 2020 to Mar 2023 \u00b7 2 yrs 6 mos"}], "education": [{"school": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen\nLudwig-Maximilians-Universit\u00e4t M\u00fcnchen", "degree": "Master of Science - MS, CS & MMT\nMaster of Science - MS, CS & MMT", "date_range": "Oct 2024\nOct 2024"}, {"school": "Universidad Aut\u00f3noma de Madrid\nUniversidad Aut\u00f3noma de Madrid", "degree": "Erasmus+, Ciencias Econ\u00f3micas y Empresariales\nErasmus+, Ciencias Econ\u00f3micas y Empresariales", "date_range": "Sep 2023 - Jan 2024\nSep 2023 - Jan 2024"}]}
+2025-03-14 14:23:53,626 - INFO - Successfully scraped: Phi Linh Phan | https://www.linkedin.com/in/phi-linh-phan/
+2025-03-14 14:23:53,626 - INFO - Waiting 5 seconds before next profile
+2025-03-14 14:23:58,795 - INFO - Chrome driver closed
+2025-03-14 14:23:58,808 - INFO - Scraping completed. Data saved to founder_profile_data.csv
+2025-03-14 14:50:29,262 - INFO - Starting LinkedIn profile scraper
+2025-03-14 14:50:29,264 - INFO - Loaded CSV with 3 profiles
+2025-03-14 14:50:29,264 - INFO - Setting up Chrome driver
+2025-03-14 14:50:29,264 - INFO - ====== WebDriver manager ======
+2025-03-14 14:50:29,412 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 14:50:29,537 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-14 14:50:29,648 - INFO - Driver [/Users/philinh/.wdm/drivers/chromedriver/mac64/134.0.6998.88/chromedriver-mac-arm64/chromedriver] found in cache
+2025-03-14 14:50:31,467 - INFO - Attempting to log in to LinkedIn
+2025-03-14 14:50:35,244 - INFO - Email entered successfully
+2025-03-14 14:50:35,353 - INFO - Password entered successfully
+2025-03-14 14:50:38,868 - INFO - Login form submitted
+2025-03-14 14:50:43,882 - INFO - Login successful
+2025-03-14 14:50:43,885 - INFO - Processing profile: https://www.linkedin.com/in/akkshay/
+2025-03-14 14:50:43,886 - INFO - Scraping profile: https://www.linkedin.com/in/akkshay/
+2025-03-14 14:50:46,021 - INFO - Navigated to profile URL: https://www.linkedin.com/in/akkshay/
+2025-03-14 14:50:54,035 - INFO - Current URL after navigation: https://www.linkedin.com/in/akkshay/
+2025-03-14 14:50:54,117 - INFO - Page source saved to profile_page.html
+2025-03-14 14:50:54,123 - INFO - Attempting to extract name
+2025-03-14 14:50:54,154 - INFO - Name extracted: Akkshay Khoslaa using selector: div.ph5.pb5 h1
+2025-03-14 14:50:54,154 - INFO - Attempting to extract headline
+2025-03-14 14:50:54,164 - INFO - Headline extracted: Co-Founder & CEO Asha Health (YC F24) | Ex-Google, Ex-Facebook using selector: div.text-body-medium.break-words
+2025-03-14 14:50:54,164 - INFO - Attempting to extract experience section
+2025-03-14 14:50:54,170 - INFO - Found 13 section elements on the page
+2025-03-14 14:50:54,202 - INFO - Found experience section with header at index 3
+2025-03-14 14:50:54,208 - INFO - Experience section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="experience" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Experience<!----></span><span class="visually-hidden"><!---->Experience<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOu...
+2025-03-14 14:50:54,215 - INFO - Found 5 experience items using artdeco-list__item
+2025-03-14 14:50:54,215 - INFO - Processing experience item 1
+2025-03-14 14:50:54,229 - INFO - Title extracted: Co-Founder & CEO
+Co-Founder & CEO using selector: div.mr1.t-bold
+2025-03-14 14:50:54,241 - INFO - Company extracted: Asha Health (YC F24) using selector: span.t-14.t-normal
+2025-03-14 14:50:54,252 - INFO - Date range extracted: Jun 2024 - Present · 10 mos
+Jun 2024 to Present · 10 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:50:54,252 - INFO - Added experience item 1: {"title": "Co-Founder & CEO\nCo-Founder & CEO", "company": "Asha Health (YC F24)", "employment_type": "Full-time\nAsha Health (YC F24)", "date_range": "Jun 2024 - Present \u00b7 10 mos\nJun 2024 to Present \u00b7 10 mos"}
+2025-03-14 14:50:54,252 - INFO - Processing experience item 2
+2025-03-14 14:50:54,265 - INFO - Title extracted: Product, Generative AI
+Product, Generative AI using selector: div.mr1.t-bold
+2025-03-14 14:50:54,273 - INFO - Company extracted: Google using selector: span.t-14.t-normal
+2025-03-14 14:50:54,283 - INFO - Date range extracted: Apr 2022 - Nov 2023 · 1 yr 8 mos
+Apr 2022 to Nov 2023 · 1 yr 8 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:50:54,283 - INFO - Added experience item 2: {"title": "Product, Generative AI\nProduct, Generative AI", "company": "Google", "employment_type": "Full-time\nGoogle", "date_range": "Apr 2022 - Nov 2023 \u00b7 1 yr 8 mos\nApr 2022 to Nov 2023 \u00b7 1 yr 8 mos"}
+2025-03-14 14:50:54,283 - INFO - Processing experience item 3
+2025-03-14 14:50:54,297 - INFO - Title extracted: Co-Founder/CEO
+Co-Founder/CEO using selector: div.mr1.t-bold
+2025-03-14 14:50:54,308 - INFO - Company extracted: Aspire Learning using selector: span.t-14.t-normal
+2025-03-14 14:50:54,355 - INFO - Date range extracted: Aug 2020 - Jan 2022 · 1 yr 6 mos
+Aug 2020 to Jan 2022 · 1 yr 6 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:50:54,383 - INFO - Added experience item 3: {"title": "Co-Founder/CEO\nCo-Founder/CEO", "company": "Aspire Learning", "employment_type": "Full-time\nAspire Learning", "date_range": "Aug 2020 - Jan 2022 \u00b7 1 yr 6 mos\nAug 2020 to Jan 2022 \u00b7 1 yr 6 mos"}
+2025-03-14 14:50:54,386 - INFO - Processing experience item 4
+2025-03-14 14:50:54,480 - INFO - Title extracted: Founder Fellow
+Founder Fellow using selector: div.mr1.t-bold
+2025-03-14 14:50:54,490 - INFO - Company extracted: On Deck
+On Deck using selector: span.t-14.t-normal
+2025-03-14 14:50:54,501 - INFO - Date range extracted: 2020 - 2020 · Less than a year
+2020 to 2020 · Less than a year using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:50:54,501 - INFO - Added experience item 4: {"title": "Founder Fellow\nFounder Fellow", "company": "On Deck\nOn Deck", "employment_type": "", "date_range": "2020 - 2020 \u00b7 Less than a year\n2020 to 2020 \u00b7 Less than a year"}
+2025-03-14 14:50:54,501 - INFO - Processing experience item 5
+2025-03-14 14:50:54,523 - INFO - Title extracted: Engineering & Product
+Engineering & Product using selector: div.mr1.t-bold
+2025-03-14 14:50:54,537 - INFO - Company extracted: Facebook
+Facebook using selector: span.t-14.t-normal
+2025-03-14 14:50:54,548 - INFO - Date range extracted: 2018 - 2020 · 2 yrs
+2018 to 2020 · 2 yrs using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:50:54,548 - INFO - Added experience item 5: {"title": "Engineering & Product\nEngineering & Product", "company": "Facebook\nFacebook", "employment_type": "", "date_range": "2018 - 2020 \u00b7 2 yrs\n2018 to 2020 \u00b7 2 yrs"}
+2025-03-14 14:50:54,548 - INFO - Attempting to extract education section
+2025-03-14 14:50:54,598 - INFO - Found education section with header at index 4
+2025-03-14 14:50:54,602 - INFO - Education section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="education" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOuDjd...
+2025-03-14 14:50:54,607 - INFO - Found 2 education items using artdeco-list__item
+2025-03-14 14:50:54,607 - INFO - Processing education item 1
+2025-03-14 14:50:54,625 - INFO - School extracted: Y Combinator
+Y Combinator using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:50:54,636 - INFO - Degree extracted: 2024
+2024 using selector: span.t-14.t-normal
+2025-03-14 14:50:54,647 - INFO - Date range extracted: 2024
+2024 using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:50:54,647 - INFO - Added education item 1: {"school": "Y Combinator\nY Combinator", "degree": "2024\n2024", "date_range": "2024\n2024"}
+2025-03-14 14:50:54,647 - INFO - Processing education item 2
+2025-03-14 14:50:54,665 - INFO - School extracted: University of California, Berkeley
+University of California, Berkeley using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:50:54,678 - INFO - Degree extracted: Electrical Engineering and Computer Science (EECS)
+Electrical Engineering and Computer Science (EECS) using selector: span.t-14.t-normal
+2025-03-14 14:50:54,738 - INFO - Date range extracted from text: Electrical Engineering and Computer Science (EECS)
+2025-03-14 14:50:54,738 - INFO - Added education item 2: {"school": "University of California, Berkeley\nUniversity of California, Berkeley", "degree": "Electrical Engineering and Computer Science (EECS)\nElectrical Engineering and Computer Science (EECS)", "date_range": "Electrical Engineering and Computer Science (EECS)"}
+2025-03-14 14:50:54,738 - INFO - Finished scraping profile. Data extracted: {"profile_url": "https://www.linkedin.com/in/akkshay/", "name": "Akkshay Khoslaa", "headline": "Co-Founder & CEO Asha Health (YC F24) | Ex-Google, Ex-Facebook", "experiences": [{"title": "Co-Founder & CEO\nCo-Founder & CEO", "company": "Asha Health (YC F24)", "employment_type": "Full-time\nAsha Health (YC F24)", "date_range": "Jun 2024 - Present \u00b7 10 mos\nJun 2024 to Present \u00b7 10 mos"}, {"title": "Product, Generative AI\nProduct, Generative AI", "company": "Google", "employment_type": "Full-time\nGoogle", "date_range": "Apr 2022 - Nov 2023 \u00b7 1 yr 8 mos\nApr 2022 to Nov 2023 \u00b7 1 yr 8 mos"}, {"title": "Co-Founder/CEO\nCo-Founder/CEO", "company": "Aspire Learning", "employment_type": "Full-time\nAspire Learning", "date_range": "Aug 2020 - Jan 2022 \u00b7 1 yr 6 mos\nAug 2020 to Jan 2022 \u00b7 1 yr 6 mos"}, {"title": "Founder Fellow\nFounder Fellow", "company": "On Deck\nOn Deck", "employment_type": "", "date_range": "2020 - 2020 \u00b7 Less than a year\n2020 to 2020 \u00b7 Less than a year"}, {"title": "Engineering & Product\nEngineering & Product", "company": "Facebook\nFacebook", "employment_type": "", "date_range": "2018 - 2020 \u00b7 2 yrs\n2018 to 2020 \u00b7 2 yrs"}], "education": [{"school": "Y Combinator\nY Combinator", "degree": "2024\n2024", "date_range": "2024\n2024"}, {"school": "University of California, Berkeley\nUniversity of California, Berkeley", "degree": "Electrical Engineering and Computer Science (EECS)\nElectrical Engineering and Computer Science (EECS)", "date_range": "Electrical Engineering and Computer Science (EECS)"}]}
+2025-03-14 14:50:54,739 - INFO - Successfully scraped: Akkshay Khoslaa | https://www.linkedin.com/in/akkshay/
+2025-03-14 14:50:54,739 - INFO - Waiting 10 seconds before next profile
+2025-03-14 14:51:04,742 - INFO - Processing profile: https://www.linkedin.com/in/gokul-kumarresen/
+2025-03-14 14:51:04,743 - INFO - Scraping profile: https://www.linkedin.com/in/gokul-kumarresen/
+2025-03-14 14:51:06,064 - INFO - Navigated to profile URL: https://www.linkedin.com/in/gokul-kumarresen/
+2025-03-14 14:51:14,220 - INFO - Current URL after navigation: https://www.linkedin.com/in/gokul-kumarresen/
+2025-03-14 14:51:14,422 - INFO - Page source saved to profile_page.html
+2025-03-14 14:51:14,427 - INFO - Attempting to extract name
+2025-03-14 14:51:14,453 - INFO - Name extracted: Gokul Kumarresen using selector: div.ph5.pb5 h1
+2025-03-14 14:51:14,453 - INFO - Attempting to extract headline
+2025-03-14 14:51:14,463 - INFO - Headline extracted: Co-Founder/CTO @ Asha Health (YC F24) | ex-Brex using selector: div.text-body-medium.break-words
+2025-03-14 14:51:14,463 - INFO - Attempting to extract experience section
+2025-03-14 14:51:14,477 - INFO - Found 11 section elements on the page
+2025-03-14 14:51:14,529 - INFO - Found experience section with header at index 2
+2025-03-14 14:51:14,547 - INFO - Experience section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="experience" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Experience<!----></span><span class="visually-hidden"><!---->Experience<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOu...
+2025-03-14 14:51:14,555 - INFO - Found 5 experience items using artdeco-list__item
+2025-03-14 14:51:14,555 - INFO - Processing experience item 1
+2025-03-14 14:51:14,585 - INFO - Title extracted: Co-Founder & CTO
+Co-Founder & CTO using selector: div.mr1.t-bold
+2025-03-14 14:51:14,608 - INFO - Company extracted: Asha Health (YC F24) using selector: span.t-14.t-normal
+2025-03-14 14:51:14,621 - INFO - Date range extracted: Sep 2024 - Present · 7 mos
+Sep 2024 to Present · 7 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:14,621 - INFO - Added experience item 1: {"title": "Co-Founder & CTO\nCo-Founder & CTO", "company": "Asha Health (YC F24)", "employment_type": "Full-time\nAsha Health (YC F24)", "date_range": "Sep 2024 - Present \u00b7 7 mos\nSep 2024 to Present \u00b7 7 mos"}
+2025-03-14 14:51:14,621 - INFO - Processing experience item 2
+2025-03-14 14:51:14,638 - INFO - Title extracted: Engineering, Growth
+Engineering, Growth using selector: div.mr1.t-bold
+2025-03-14 14:51:14,731 - INFO - Company extracted: Brex using selector: span.t-14.t-normal
+2025-03-14 14:51:14,822 - INFO - Date range extracted: Jun 2022 - Sep 2024 · 2 yrs 4 mos
+Jun 2022 to Sep 2024 · 2 yrs 4 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:14,822 - INFO - Added experience item 2: {"title": "Engineering, Growth\nEngineering, Growth", "company": "Brex", "employment_type": "Full-time\nBrex", "date_range": "Jun 2022 - Sep 2024 \u00b7 2 yrs 4 mos\nJun 2022 to Sep 2024 \u00b7 2 yrs 4 mos"}
+2025-03-14 14:51:14,822 - INFO - Processing experience item 3
+2025-03-14 14:51:14,926 - INFO - Title extracted: Co-Founder & CTO
+Co-Founder & CTO using selector: div.mr1.t-bold
+2025-03-14 14:51:14,977 - INFO - Company extracted: Aspire Learning using selector: span.t-14.t-normal
+2025-03-14 14:51:15,122 - INFO - Date range extracted: Jan 2021 - Jan 2022 · 1 yr 1 mo
+Jan 2021 to Jan 2022 · 1 yr 1 mo using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:15,122 - INFO - Added experience item 3: {"title": "Co-Founder & CTO\nCo-Founder & CTO", "company": "Aspire Learning", "employment_type": "Full-time\nAspire Learning", "date_range": "Jan 2021 - Jan 2022 \u00b7 1 yr 1 mo\nJan 2021 to Jan 2022 \u00b7 1 yr 1 mo"}
+2025-03-14 14:51:15,122 - INFO - Processing experience item 4
+2025-03-14 14:51:15,141 - INFO - Title extracted: Engineering
+Engineering using selector: div.mr1.t-bold
+2025-03-14 14:51:15,157 - INFO - Company extracted: Salesforce using selector: span.t-14.t-normal
+2025-03-14 14:51:15,169 - INFO - Date range extracted: Jun 2019 - Jan 2021 · 1 yr 8 mos
+Jun 2019 to Jan 2021 · 1 yr 8 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:15,169 - INFO - Added experience item 4: {"title": "Engineering\nEngineering", "company": "Salesforce", "employment_type": "Full-time\nSalesforce", "date_range": "Jun 2019 - Jan 2021 \u00b7 1 yr 8 mos\nJun 2019 to Jan 2021 \u00b7 1 yr 8 mos"}
+2025-03-14 14:51:15,170 - INFO - Processing experience item 5
+2025-03-14 14:51:15,185 - INFO - Title extracted: Engineering, AI
+Engineering, AI using selector: div.mr1.t-bold
+2025-03-14 14:51:15,196 - INFO - Company extracted: IBM using selector: span.t-14.t-normal
+2025-03-14 14:51:15,208 - INFO - Date range extracted: Jan 2017 - Aug 2017 · 8 mos
+Jan 2017 to Aug 2017 · 8 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:15,208 - INFO - Added experience item 5: {"title": "Engineering, AI\nEngineering, AI", "company": "IBM", "employment_type": "Internship\nIBM", "date_range": "Jan 2017 - Aug 2017 \u00b7 8 mos\nJan 2017 to Aug 2017 \u00b7 8 mos"}
+2025-03-14 14:51:15,208 - INFO - Attempting to extract education section
+2025-03-14 14:51:15,262 - INFO - Found education section with header at index 3
+2025-03-14 14:51:15,267 - INFO - Education section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="education" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOuDjd...
+2025-03-14 14:51:15,273 - INFO - Found 2 education items using artdeco-list__item
+2025-03-14 14:51:15,274 - INFO - Processing education item 1
+2025-03-14 14:51:15,291 - INFO - School extracted: Y Combinator
+Y Combinator using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:51:15,304 - INFO - Degree extracted: Sep 2024 - Dec 2024
+Sep 2024 - Dec 2024 using selector: span.t-14.t-normal
+2025-03-14 14:51:15,315 - INFO - Date range extracted: Sep 2024 - Dec 2024
+Sep 2024 - Dec 2024 using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:15,315 - INFO - Added education item 1: {"school": "Y Combinator\nY Combinator", "degree": "Sep 2024 - Dec 2024\nSep 2024 - Dec 2024", "date_range": "Sep 2024 - Dec 2024\nSep 2024 - Dec 2024"}
+2025-03-14 14:51:15,315 - INFO - Processing education item 2
+2025-03-14 14:51:15,331 - INFO - School extracted: Penn State University
+Penn State University using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:51:15,342 - INFO - Degree extracted: Bachelor's degree, Computer Science
+Bachelor's degree, Computer Science using selector: span.t-14.t-normal
+2025-03-14 14:51:15,363 - INFO - Date range extracted: 2014 - 2019
+2014 - 2019 using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:15,363 - INFO - Added education item 2: {"school": "Penn State University\nPenn State University", "degree": "Bachelor's degree, Computer Science\nBachelor's degree, Computer Science", "date_range": "2014 - 2019\n2014 - 2019"}
+2025-03-14 14:51:15,363 - INFO - Finished scraping profile. Data extracted: {"profile_url": "https://www.linkedin.com/in/gokul-kumarresen/", "name": "Gokul Kumarresen", "headline": "Co-Founder/CTO @ Asha Health (YC F24) | ex-Brex", "experiences": [{"title": "Co-Founder & CTO\nCo-Founder & CTO", "company": "Asha Health (YC F24)", "employment_type": "Full-time\nAsha Health (YC F24)", "date_range": "Sep 2024 - Present \u00b7 7 mos\nSep 2024 to Present \u00b7 7 mos"}, {"title": "Engineering, Growth\nEngineering, Growth", "company": "Brex", "employment_type": "Full-time\nBrex", "date_range": "Jun 2022 - Sep 2024 \u00b7 2 yrs 4 mos\nJun 2022 to Sep 2024 \u00b7 2 yrs 4 mos"}, {"title": "Co-Founder & CTO\nCo-Founder & CTO", "company": "Aspire Learning", "employment_type": "Full-time\nAspire Learning", "date_range": "Jan 2021 - Jan 2022 \u00b7 1 yr 1 mo\nJan 2021 to Jan 2022 \u00b7 1 yr 1 mo"}, {"title": "Engineering\nEngineering", "company": "Salesforce", "employment_type": "Full-time\nSalesforce", "date_range": "Jun 2019 - Jan 2021 \u00b7 1 yr 8 mos\nJun 2019 to Jan 2021 \u00b7 1 yr 8 mos"}, {"title": "Engineering, AI\nEngineering, AI", "company": "IBM", "employment_type": "Internship\nIBM", "date_range": "Jan 2017 - Aug 2017 \u00b7 8 mos\nJan 2017 to Aug 2017 \u00b7 8 mos"}], "education": [{"school": "Y Combinator\nY Combinator", "degree": "Sep 2024 - Dec 2024\nSep 2024 - Dec 2024", "date_range": "Sep 2024 - Dec 2024\nSep 2024 - Dec 2024"}, {"school": "Penn State University\nPenn State University", "degree": "Bachelor's degree, Computer Science\nBachelor's degree, Computer Science", "date_range": "2014 - 2019\n2014 - 2019"}]}
+2025-03-14 14:51:15,363 - INFO - Successfully scraped: Gokul Kumarresen | https://www.linkedin.com/in/gokul-kumarresen/
+2025-03-14 14:51:15,363 - INFO - Waiting 15 seconds before next profile
+2025-03-14 14:51:30,368 - INFO - Processing profile: https://www.linkedin.com/in/phi-linh-phan/
+2025-03-14 14:51:30,369 - INFO - Scraping profile: https://www.linkedin.com/in/phi-linh-phan/
+2025-03-14 14:51:31,992 - INFO - Navigated to profile URL: https://www.linkedin.com/in/phi-linh-phan/
+2025-03-14 14:51:40,126 - INFO - Current URL after navigation: https://www.linkedin.com/in/phi-linh-phan/
+2025-03-14 14:51:40,250 - INFO - Page source saved to profile_page.html
+2025-03-14 14:51:40,255 - INFO - Attempting to extract name
+2025-03-14 14:51:40,268 - INFO - Name extracted: Phi Linh Phan using selector: div.ph5.pb5 h1
+2025-03-14 14:51:40,268 - INFO - Attempting to extract headline
+2025-03-14 14:51:40,276 - INFO - Headline extracted: CS & MMT @ LMU | START Munich | The Gottman Initiative using selector: div.text-body-medium.break-words
+2025-03-14 14:51:40,276 - INFO - Attempting to extract experience section
+2025-03-14 14:51:40,281 - INFO - Found 15 section elements on the page
+2025-03-14 14:51:40,307 - INFO - Found experience section with header at index 2
+2025-03-14 14:51:40,312 - INFO - Experience section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="experience" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Experience<!----></span><span class="visually-hidden"><!---->Experience<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOu...
+2025-03-14 14:51:40,316 - INFO - Found 5 experience items using artdeco-list__item
+2025-03-14 14:51:40,316 - INFO - Processing experience item 1
+2025-03-14 14:51:40,329 - INFO - Title extracted: Assoziierte:r Forscher:in
+Assoziierte:r Forscher:in using selector: div.mr1.t-bold
+2025-03-14 14:51:40,340 - INFO - Company extracted: The Gottman Initiative using selector: span.t-14.t-normal
+2025-03-14 14:51:40,355 - INFO - Date range extracted: Jan 2025 - Present · 3 mos
+Jan 2025 to Present · 3 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:40,355 - INFO - Added experience item 1: {"title": "Assoziierte:r Forscher:in\nAssoziierte:r Forscher:in", "company": "The Gottman Initiative", "employment_type": "Work Study\nThe Gottman Initiative", "date_range": "Jan 2025 - Present \u00b7 3 mos\nJan 2025 to Present \u00b7 3 mos"}
+2025-03-14 14:51:40,356 - INFO - Processing experience item 2
+2025-03-14 14:51:40,371 - INFO - Title extracted: AI & Automation Development
+AI & Automation Development using selector: div.mr1.t-bold
+2025-03-14 14:51:40,383 - INFO - Company extracted: Studicon using selector: span.t-14.t-normal
+2025-03-14 14:51:40,397 - INFO - Date range extracted: Jun 2023 - Nov 2024 · 1 yr 6 mos
+Jun 2023 to Nov 2024 · 1 yr 6 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:40,397 - INFO - Added experience item 2: {"title": "AI & Automation Development\nAI & Automation Development", "company": "Studicon", "employment_type": "Work Study\nStudicon", "date_range": "Jun 2023 - Nov 2024 \u00b7 1 yr 6 mos\nJun 2023 to Nov 2024 \u00b7 1 yr 6 mos"}
+2025-03-14 14:51:40,397 - INFO - Processing experience item 3
+2025-03-14 14:51:40,416 - INFO - Title extracted: Change Management
+Change Management using selector: div.mr1.t-bold
+2025-03-14 14:51:40,428 - INFO - Company extracted: Breitenstein Consulting using selector: span.t-14.t-normal
+2025-03-14 14:51:40,438 - INFO - Date range extracted: Apr 2023 - Jul 2023 · 4 mos
+Apr 2023 to Jul 2023 · 4 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:40,438 - INFO - Added experience item 3: {"title": "Change Management\nChange Management", "company": "Breitenstein Consulting", "employment_type": "Internship\nBreitenstein Consulting", "date_range": "Apr 2023 - Jul 2023 \u00b7 4 mos\nApr 2023 to Jul 2023 \u00b7 4 mos"}
+2025-03-14 14:51:40,438 - INFO - Processing experience item 4
+2025-03-14 14:51:40,453 - INFO - Title extracted: Product & Content Development
+Product & Content Development using selector: div.mr1.t-bold
+2025-03-14 14:51:40,464 - INFO - Company extracted: Savvi using selector: span.t-14.t-normal
+2025-03-14 14:51:40,475 - INFO - Date range extracted: Feb 2023 - Apr 2023 · 3 mos
+Feb 2023 to Apr 2023 · 3 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:40,475 - INFO - Added experience item 4: {"title": "Product & Content Development\nProduct & Content Development", "company": "Savvi", "employment_type": "Internship\nSavvi", "date_range": "Feb 2023 - Apr 2023 \u00b7 3 mos\nFeb 2023 to Apr 2023 \u00b7 3 mos"}
+2025-03-14 14:51:40,475 - INFO - Processing experience item 5
+2025-03-14 14:51:40,489 - INFO - Title extracted: Teaching Assistant
+Teaching Assistant using selector: div.mr1.t-bold
+2025-03-14 14:51:40,500 - INFO - Company extracted: Ludwig-Maximilians-Universität München using selector: span.t-14.t-normal
+2025-03-14 14:51:40,511 - INFO - Date range extracted: Oct 2020 - Mar 2023 · 2 yrs 6 mos
+Oct 2020 to Mar 2023 · 2 yrs 6 mos using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:40,511 - INFO - Added experience item 5: {"title": "Teaching Assistant\nTeaching Assistant", "company": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", "employment_type": "Work Study\nLudwig-Maximilians-Universit\u00e4t M\u00fcnchen", "date_range": "Oct 2020 - Mar 2023 \u00b7 2 yrs 6 mos\nOct 2020 to Mar 2023 \u00b7 2 yrs 6 mos"}
+2025-03-14 14:51:40,511 - INFO - Attempting to extract education section
+2025-03-14 14:51:40,562 - INFO - Found education section with header at index 3
+2025-03-14 14:51:40,566 - INFO - Education section HTML: <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="education" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOuDjd...
+2025-03-14 14:51:40,572 - INFO - Found 2 education items using artdeco-list__item
+2025-03-14 14:51:40,572 - INFO - Processing education item 1
+2025-03-14 14:51:40,588 - INFO - School extracted: Ludwig-Maximilians-Universität München
+Ludwig-Maximilians-Universität München using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:51:40,605 - INFO - Degree extracted: Master of Science - MS, CS & MMT
+Master of Science - MS, CS & MMT using selector: span.t-14.t-normal
+2025-03-14 14:51:40,616 - INFO - Date range extracted: Oct 2024
+Oct 2024 using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:40,616 - INFO - Added education item 1: {"school": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen\nLudwig-Maximilians-Universit\u00e4t M\u00fcnchen", "degree": "Master of Science - MS, CS & MMT\nMaster of Science - MS, CS & MMT", "date_range": "Oct 2024\nOct 2024"}
+2025-03-14 14:51:40,616 - INFO - Processing education item 2
+2025-03-14 14:51:40,631 - INFO - School extracted: Universidad Autónoma de Madrid
+Universidad Autónoma de Madrid using selector: div.mr1.hoverable-link-text.t-bold
+2025-03-14 14:51:40,641 - INFO - Degree extracted: Erasmus+, Ciencias Económicas y Empresariales
+Erasmus+, Ciencias Económicas y Empresariales using selector: span.t-14.t-normal
+2025-03-14 14:51:40,653 - INFO - Date range extracted: Sep 2023 - Jan 2024
+Sep 2023 - Jan 2024 using selector: span.t-14.t-normal.t-black--light
+2025-03-14 14:51:40,653 - INFO - Added education item 2: {"school": "Universidad Aut\u00f3noma de Madrid\nUniversidad Aut\u00f3noma de Madrid", "degree": "Erasmus+, Ciencias Econ\u00f3micas y Empresariales\nErasmus+, Ciencias Econ\u00f3micas y Empresariales", "date_range": "Sep 2023 - Jan 2024\nSep 2023 - Jan 2024"}
+2025-03-14 14:51:40,653 - INFO - Finished scraping profile. Data extracted: {"profile_url": "https://www.linkedin.com/in/phi-linh-phan/", "name": "Phi Linh Phan", "headline": "CS & MMT @ LMU | START Munich | The Gottman Initiative", "experiences": [{"title": "Assoziierte:r Forscher:in\nAssoziierte:r Forscher:in", "company": "The Gottman Initiative", "employment_type": "Work Study\nThe Gottman Initiative", "date_range": "Jan 2025 - Present \u00b7 3 mos\nJan 2025 to Present \u00b7 3 mos"}, {"title": "AI & Automation Development\nAI & Automation Development", "company": "Studicon", "employment_type": "Work Study\nStudicon", "date_range": "Jun 2023 - Nov 2024 \u00b7 1 yr 6 mos\nJun 2023 to Nov 2024 \u00b7 1 yr 6 mos"}, {"title": "Change Management\nChange Management", "company": "Breitenstein Consulting", "employment_type": "Internship\nBreitenstein Consulting", "date_range": "Apr 2023 - Jul 2023 \u00b7 4 mos\nApr 2023 to Jul 2023 \u00b7 4 mos"}, {"title": "Product & Content Development\nProduct & Content Development", "company": "Savvi", "employment_type": "Internship\nSavvi", "date_range": "Feb 2023 - Apr 2023 \u00b7 3 mos\nFeb 2023 to Apr 2023 \u00b7 3 mos"}, {"title": "Teaching Assistant\nTeaching Assistant", "company": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen", "employment_type": "Work Study\nLudwig-Maximilians-Universit\u00e4t M\u00fcnchen", "date_range": "Oct 2020 - Mar 2023 \u00b7 2 yrs 6 mos\nOct 2020 to Mar 2023 \u00b7 2 yrs 6 mos"}], "education": [{"school": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen\nLudwig-Maximilians-Universit\u00e4t M\u00fcnchen", "degree": "Master of Science - MS, CS & MMT\nMaster of Science - MS, CS & MMT", "date_range": "Oct 2024\nOct 2024"}, {"school": "Universidad Aut\u00f3noma de Madrid\nUniversidad Aut\u00f3noma de Madrid", "degree": "Erasmus+, Ciencias Econ\u00f3micas y Empresariales\nErasmus+, Ciencias Econ\u00f3micas y Empresariales", "date_range": "Sep 2023 - Jan 2024\nSep 2023 - Jan 2024"}]}
+2025-03-14 14:51:40,654 - INFO - Successfully scraped: Phi Linh Phan | https://www.linkedin.com/in/phi-linh-phan/
+2025-03-14 14:51:40,654 - INFO - Waiting 5 seconds before next profile
+2025-03-14 14:51:45,844 - INFO - Chrome driver closed
+2025-03-14 14:51:45,879 - INFO - Scraping completed. Data saved to founder_profile_data.csv

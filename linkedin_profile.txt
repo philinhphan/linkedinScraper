@@ -1,0 +1,2321 @@
+<html lang="en" class="theme theme--mercado app-loader--default artdeco osx"><head>
+    <script nonce="">!function(i,n){void 0!==i.addEventListener&&void 0!==i.hidden&&(n.liVisibilityChangeListener=function(){i.hidden&&(n.liHasWindowHidden=!0)},i.addEventListener("visibilitychange",n.liVisibilityChangeListener))}(document,window);</script>
+    <meta name="trusted-types" content="script-src-attr 'none'; require-trusted-types-for 'script'; trusted-types 'allow-duplicates' default jSecure highcharts dompurify" data-disposition="enforce" data-sanitizer="jSecure" data-report-to="https://www.linkedin.com/security/csp?a=voyager-web&amp;m=bpr" http-equiv="Content-Security-Policy">
+
+    <title>Sina Rezaei | LinkedIn</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="asset-url" class="mercado-icons-sprite" id="artdeco-icons/static/images/sprite-asset" content="https://static.licdn.com/aero-v1/sc/h/2brfqc2ezdcl00afxrykl5mid">
+    <meta name="description" content="">
+    <meta name="google" content="notranslate">
+    <meta name="service" content="voyager-web">
+    <meta name="theme-color" content="#ffffff" id="theme-color-meta-tag">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="baseCDNUrl" content="https://static.licdn.com/aero-v1/sc/h">
+    <meta name="storage-inventory" content="">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="icon" type="image/svg+xml" href="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" id="favicon-svg">
+    <link rel="alternate icon" href="https://static.licdn.com/aero-v1/sc/h/8s162nmbcnfkg7a0k8nq9wwqo" id="favicon-png" sizes="any">
+    <link rel="mask-icon" href="https://static.licdn.com/aero-v1/sc/h/8a1a8xqjolkyjbf9n3i40oimj" color="#0a66c2">
+    <link rel="manifest" href="https://static.licdn.com/aero-v1/sc/h/cnb1wgf591tnion4pjadgvx87" crossorigin="anonymous">
+
+    
+        <link id="ui-theme" rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/29hh7wjhh2fb21iibk8l5at3r">
+        <link id="ui-theme-dark" rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/8c7l442bzeunp6m342al04t30" disabled="">
+        
+      
+    <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/crm1oudxycvsyp4utousyl4tx">
+    
+<meta name="voyager-web/config/environment" >
+<!-- EMBER_CLI_FASTBOOT_TITLE --><!-- EMBER_CLI_FASTBOOT_HEAD -->
+<meta name="i18nDefaultLocale" content="en_US">
+<meta name="i18nLocale" content="en_US">
+<meta name="requestIpCountryCode" content="de">
+<meta name="iltSupportUrl" content="https://static.licdn.com/aero-v1/sc/h/d2advx4h387fkdf83t0kw6enm">
+<meta name="bprPageInstance" content="urn:li:page:bpr;c3bdc147-f319-4c45-86a4-8cc1f205601e">
+<meta name="applicationInstance" content="{&quot;applicationUrn&quot;: &quot;urn:li:application:(voyager-web,voyager-web)&quot;, &quot;version&quot;: &quot;1.13.32315&quot;, &quot;trackingId&quot;: [91, 29, -121, -20, -98, -43, 67, 20, -102, 89, 17, -17, 125, -14, -72, 60]}">
+<meta name="clientPageInstanceId" content="10cc026e-1a96-4022-8cbe-5366faefd2a5">
+<meta name="service" content="voyager-web">
+<meta name="serviceInstance" content="i001">
+<meta name="serviceVersion" content="1.13.32315">
+<meta name="treeID" content="AAYwSfzS/CzK4uIL3DLYew==">
+<link rel="alternate icon" href="https://static.licdn.com/aero-v1/sc/h/3loy7tajf3n0cho89wgg0fjre" id="favicon-ico" sizes="any">
+<link rel="apple-touch-icon" href="https://static.licdn.com/aero-v1/sc/h/2if24wp7oqlodqdlgei1n1520">
+<link rel="apple-touch-icon-precomposed" href="https://static.licdn.com/aero-v1/sc/h/eahiplrwoq61f4uan012ia17i">
+<link rel="apple-touch-icon-precomposed" href="https://static.licdn.com/aero-v1/sc/h/2if24wp7oqlodqdlgei1n1520" sizes="57x57">
+<link rel="apple-touch-icon-precomposed" href="https://static.licdn.com/aero-v1/sc/h/eahiplrwoq61f4uan012ia17i" sizes="144x144">
+<meta name="spark/hash-includes">
+<meta name="liamOrLisa" content="none">
+<meta name="__init" >
+<meta name="isBrowserSupported" content="true">
+<meta name="isGuest" content="false">
+<meta name="renderingMode" data-mode="BIGPIPE">
+<!--%SSR_HEAD*[]%-->
+<meta name="Fastlane" content="enabled"> 
+<meta name="bigpipeResponseTimeout" content="12000"> 
+<meta name="bigpipeJetRethrowError" content="false"> 
+<meta name="bigpipeDenylistUrls" content="[&quot;static\\.licdn\\.com&quot;,&quot;media\\.licdn\\.com&quot;,&quot;voyager/api/typeahead/hits&quot;]"> 
+<meta name="bigpipeBlacklistUrls" content="[&quot;static\\.licdn\\.com&quot;,&quot;media\\.licdn\\.com&quot;,&quot;voyager/api/typeahead/hits&quot;]"> 
+<meta name="isQueryTunnelRequestSupported" content="true"> 
+<script src="https://static.licdn.com/aero-v1/sc/h/erg6r220z1w3s8zqu53bgu8uj"></script>
+<meta name="abi/config/environment" content="%7B%7D">
+<meta name="ad-preview/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="article-editor/config/environment" content="%7B%7D">
+<meta name="article-reader/config/environment" content="%7B%7D">
+<meta name="build-relation/config/environment" content="%7B%7D">
+<meta name="career-services/config/environment" content="%7B%7D">
+<meta name="coach-routes/config/environment" content="%7B%7D">
+<meta name="company-creation/config/environment" content="%7B%7D">
+<meta name="consent-experience-routes/config/environment" content="%7B%7D">
+<meta name="creator-analytics/config/environment" content="%7B%7D">
+<meta name="emoji-picker/config/environment" content="%7B%7D">
+<meta name="events/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="events-analytics/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="explore-career-insights/config/environment" content="%7B%7D">
+<meta name="feed/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="feed-debug/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="feed-detail/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="feed-modals/config/environment" content="%7B%7D">
+<meta name="feed-shared/config/environment" content="%7B%7D">
+<meta name="feedback-retour/config/environment" content="%7B%7D">
+<meta name="groups/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="groups-organizer/config/environment" content="%7B%7D">
+<meta name="hiring/config/environment" content="%7B%7D">
+<meta name="inshare/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="interview-prep/config/environment" content="%7B%7D">
+<meta name="jam/config/environment" content="%7B%7D">
+<meta name="job-details-engine/config/environment" content="%7B%7D">
+<meta name="job-posting/config/environment" content="%7B%7D">
+<meta name="job-seeking-preferences/config/environment" content="%7B%7D">
+<meta name="jobs/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="jobs-post-apply/config/environment" content="%7B%7D">
+<meta name="jobs-search/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="jobs-semantic-search/config/environment" content="%7B%7D">
+<meta name="lead-capture/config/environment" content="%7B%7D">
+<meta name="lead-gen/config/environment" content="%7B%7D">
+<meta name="marketplace-message-card/config/environment" content="%7B%7D">
+<meta name="me/config/environment" content="%7B%7D">
+<meta name="me-ca/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="member-analytics/config/environment" content="%7B%7D">
+<meta name="messaging/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="msg-multisend/config/environment" content="%7B%7D">
+<meta name="msg-overlay/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="msg-overlay-manager/config/environment" content="%7B%7D">
+<meta name="msg-reactions/config/environment" content="%7B%7D">
+<meta name="msg-ui/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="msg-video-call/config/environment" content="%7B%7D">
+<meta name="mynetwork/config/environment" content="%7B%7D">
+<meta name="news/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="notifications/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="onboarding/config/environment" content="%7B%7D">
+<meta name="organization/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="organization-about/config/environment" content="%7B%7D">
+<meta name="organization-admin/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="organization-admin-jobs/config/environment" content="%7B%7D">
+<meta name="organization-admin-life/config/environment" content="%7B%7D">
+<meta name="organization-company-interest/config/environment" content="%7B%7D">
+<meta name="organization-employee-experience/config/environment" content="%7B%7D">
+<meta name="organization-events/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="organization-insights/config/environment" content="%7B%7D">
+<meta name="organization-jobs/config/environment" content="%7B%7D">
+<meta name="organization-life/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="organization-life-assistant/config/environment" content="%7B%7D">
+<meta name="organization-people/config/environment" content="%7B%7D">
+<meta name="organization-posts/config/environment" content="%7B%7D">
+<meta name="organization-product/config/environment" content="%7B%7D">
+<meta name="organization-services/config/environment" content="%7B%7D">
+<meta name="participate-text-editor/config/environment" content="%7B%7D">
+<meta name="people-semantic-search/config/environment" content="%7B%7D">
+<meta name="play-gtm/config/environment" content="%7B%7D">
+<meta name="play-routes/config/environment" content="%7B%7D">
+<meta name="premium/config/environment" content="%7B%7D">
+<meta name="premium-dashboard/config/environment" content="%7B%7D">
+<meta name="product-surveys/config/environment" content="%7B%7D">
+<meta name="products/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="profile-creator-dashboard/config/environment" content="%7B%7D">
+<meta name="profile-creator-mode/config/environment" content="%7B%7D">
+<meta name="profile-edit/config/environment" content="%7B%7D">
+<meta name="profile-ge/config/environment" content="%7B%7D">
+<meta name="profile-opportunities/config/environment" content="%7B%7D">
+<meta name="profile-search-analytics/config/environment" content="%7B%7D">
+<meta name="profile-skill-assessments/config/environment" content="%7B%7D">
+<meta name="profile-tetris/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="props-home/config/environment" content="%7B%7D">
+<meta name="publishing/config/environment" content="%7B%7D">
+<meta name="publishing-entity/config/environment" content="%7B%7D">
+<meta name="resume-builder/config/environment" content="%7B%7D">
+<meta name="resume-to-profile/config/environment" content="%7B%7D">
+<meta name="rooms/config/environment" content="%7B%7D">
+<meta name="search/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="seeker-coach-engine/config/environment" content="%7B%7D">
+<meta name="service-marketplace/config/environment" content="%7B%7D">
+<meta name="sharing-v2/config/environment" content="%7B%7D">
+<meta name="skills-demonstration/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="smp-service-pages/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="suggested-for-you/config/environment" content="%7B%7D">
+<meta name="tenor-gif/config/environment" content="%7B%7D">
+<meta name="tracking-overlay/config/environment" content="%7B%7D">
+<meta name="trust-verifications/config/environment" content="%7B%7D">
+<meta name="video-conferencing/config/environment" content="%7B%7D">
+<meta name="video-engine/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="video-go-live/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="video-seo-engine/config/environment" content="%7B%22sparkPlaceholders%22%3A%7B%22includeHashes%22%3A%5B%22assets/media-player.amd.js%22%5D%7D%7D">
+<meta name="workflow/config/environment" content="%7B%7D">
+
+    <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/bdtavlaf6lxy5yc2z5gwo0o8u">
+    <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/55sacfprfjuf4uhocbkuuhgoa">
+
+    <meta name="asset-url" id="artdeco-icons/static/images/icons.svg" content="https://static.licdn.com/aero-v1/sc/h/cuku0z1y5oc2p37f79y2te9fy">
+
+<meta name="voyager-web/config/asset-manifest" >
+<link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/axl6l5vqaqjqm907p0jc38w6p"><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/agydpkifovexegjg9ixfibpf"><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/4oh9r66yxuaqvezedncxmyowe"><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/73dvzvfweanlmphc6gdvq17aa">
+<link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/d5at2o8co3d22rjjcyhsx63vp" class="lazy-css">
+
+    <style></style>
+
+    <script src="https://static.licdn.com/aero-v1/sc/h/coa7f3ykpl4n59lxspa6n42h5"></script><script src="https://static.licdn.com/aero-v1/sc/h/a353teao6q258osz5yj8uoxbh"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/8f8wk4h8dk1ls5bt9q3t9ezx5"><script src="https://static.licdn.com/aero-v1/sc/h/4apd5rbxnf3ftfqym11i88zsb"></script><script src="https://static.licdn.com/aero-v1/sc/h/akt9x7rhe8y8yoben4h2l7zw0"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/9kxgnrztdn2iyu9zl0lpv4lxv"><script src="https://static.licdn.com/aero-v1/sc/h/9mg5l3cc85zoie5ho0v3pdyz6"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/37jsdq5pmehepql77c939e31y"><script src="https://static.licdn.com/aero-v1/sc/h/2qo06b0yji7gk9r0emy6ews0e"></script><script src="https://static.licdn.com/aero-v1/sc/h/55chxt9t3tzkdy9bxuf18l0ra"></script><script src="https://static.licdn.com/aero-v1/sc/h/78qbuyqp1uspfh69d78i18c4l"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/5i2ao5shk2ikuoshzoqvqxsey"><script src="https://static.licdn.com/aero-v1/sc/h/7s5zwmwrywlfe7b16rblfaf4z"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/63fq7q1mkierlyah53ianfole"><script src="https://static.licdn.com/aero-v1/sc/h/75m6610v9zzkyqdqptrfw91ti"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/ah84a4kcg2akgyt6296nd7cp6"><script src="https://static.licdn.com/aero-v1/sc/h/bbgdfwh7synmexhj4np0iczjl"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/e3ze1hp99uiva1z8soqz2w00h"><style>.immersive-reader-button{cursor:pointer;display:inline-block;padding:5px;} .immersive-reader-button:hover{background:rgba(0,0,0,.05);border-radius:2px</style><script src="https://merchantpool1.linkedin.com/mdt.js?session_id=8271cc0b-198f-4557-804b-748728521449&amp;instanceId=fb6bbd47-fa7c-4264-b4e9-b25948407586" id="dfpIframeScript"></script><script src="https://static.licdn.com/aero-v1/sc/h/54ukwa94y5ma3jbmcu69mtise"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/aaqloz13b3t65jsg9hk1klop6"><script src="https://static.licdn.com/aero-v1/sc/h/8ux46fwrc4tk62sicjr35e9jx"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/214unfivgse17iiani6xf4pl0"><script src="https://static.licdn.com/aero-v1/sc/h/c0etwjhy1lev8okmf49geck4u"></script><script src="https://static.licdn.com/aero-v1/sc/h/3ab6f8ccbi22n76s51gb2f77s"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/8it1zbu63l1gb7zembumka7y2"><script src="https://static.licdn.com/aero-v1/sc/h/1ws4n5pc0b2sodpe69g0zo1he"></script><script src="https://static.licdn.com/aero-v1/sc/h/bdtl3z4sed2l8rb5m1t313buy"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/4x218n1hyci52nnh3jt9jctf4"><script src="https://static.licdn.com/aero-v1/sc/h/6cvnskrth9skbrcqy95sjlk4z"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/9udi2ikkip8p3s2p44y92kol2"><script src="https://static.licdn.com/aero-v1/sc/h/edei78gptam2emkfae60hpseh"></script><script src="https://static.licdn.com/aero-v1/sc/h/bohutjoqic9bwor6bmffh43ok"></script><script src="https://static.licdn.com/aero-v1/sc/h/2m4272jc9d9xvli4528ye0ftz"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/f2v9beuymjs33f854l099nuzx"><script src="https://static.licdn.com/aero-v1/sc/h/dp10x78ap2574zw6j4iyuddfk"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/b9as27i1rodfr5uhu3q3pycv5"><script src="https://static.licdn.com/aero-v1/sc/h/3e4cb5jsdtdul8p9u9v2gg724"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/1g3mifjnzrpsov7wp6ag9sjoo"><script src="https://static.licdn.com/aero-v1/sc/h/dn2tr0kjqkrdw7xkm6p8ob5zw"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/bfimeo96b7yzi0eum97pdvyfl"><style type="text/css">  @-webkit-keyframes rotate {
+    from  { -webkit-transform: rotate(0deg); }
+    to   { -webkit-transform: rotate(360deg); }
+  }
+
+  @keyframes rotate {
+    from  { transform: rotate(0deg); }
+    to   { transform: rotate(360deg); }
+  }
+
+    .dropbox-dropin-btn, .dropbox-dropin-btn:link, .dropbox-dropin-btn:hover {
+      display: inline-block;
+      height: 14px;
+      font-family: "Lucida Grande", "Segoe UI", "Tahoma", "Helvetica Neue", "Helvetica", sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      color: #636363;
+      text-decoration: none;
+      padding: 1px 7px 5px 3px;
+      border: 1px solid #ebebeb;
+      border-radius: 2px;
+      border-bottom-color: #d4d4d4;
+        background: #fcfcfc;
+  background: -moz-linear-gradient(top, #fcfcfc 0%, #f5f5f5 100%);
+  background: -webkit-linear-gradient(top, #fcfcfc 0%, #f5f5f5 100%);
+  background: linear-gradient(to bottom, #fcfcfc 0%, #f5f5f5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fcfcfc', endColorstr='#f5f5f5',GradientType=0);  
+    }
+
+    .dropbox-dropin-default:hover, .dropbox-dropin-error:hover {
+      border-color: #dedede;
+      border-bottom-color: #cacaca;
+        background: #fdfdfd;
+  background: -moz-linear-gradient(top, #fdfdfd 0%, #f5f5f5 100%);
+  background: -webkit-linear-gradient(top, #fdfdfd 0%, #f5f5f5 100%);
+  background: linear-gradient(to bottom, #fdfdfd 0%, #f5f5f5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fdfdfd', endColorstr='#f5f5f5',GradientType=0);  
+    }
+
+    .dropbox-dropin-default:active, .dropbox-dropin-error:active {
+      border-color: #d1d1d1;
+      box-shadow: inset 0 1px 1px rgba(0,0,0,0.1);
+    }
+
+    .dropbox-dropin-btn .dropin-btn-status {
+      display: inline-block;
+      width: 15px;
+      height: 14px;
+      vertical-align: bottom;
+      margin: 0 5px 0 2px;
+      background: transparent url('https://www.dropbox.com/static/images/widgets/dbx-saver-status.png') no-repeat;
+      position: relative;
+      top: 2px;
+    }
+
+    .dropbox-dropin-default .dropin-btn-status {
+      background-position: 0px 0px;
+    }
+
+    .dropbox-dropin-progress .dropin-btn-status {
+      width: 18px;
+      margin: 0 4px 0 0;
+      background: url('https://www.dropbox.com/static/images/widgets/dbx-progress.png') no-repeat center center;
+        -webkit-animation-name: rotate;
+        -webkit-animation-duration: 1.7s;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+      animation-name: rotate;
+      animation-duration: 1.7s;
+      animation-iteration-count: infinite;
+      animation-timing-function: linear;
+    }
+
+    .dropbox-dropin-success .dropin-btn-status {
+      background-position: -15px 0px;
+    }
+
+    .dropbox-dropin-disabled {
+      background: #e0e0e0;
+      border: 1px #dadada solid;
+      border-bottom: 1px solid #ccc;
+      box-shadow: none;
+    }
+
+    .dropbox-dropin-disabled .dropin-btn-status {
+      background-position: -30px 0px;
+    }
+
+    .dropbox-dropin-error .dropin-btn-status {
+      background-position: -45px 0px;
+    }
+
+  @media only screen and (-webkit-min-device-pixel-ratio: 1.4) {
+      .dropbox-dropin-btn .dropin-btn-status {
+        background-image: url('https://www.dropbox.com/static/images/widgets/dbx-saver-status-2x.png');
+        background-size: 60px 14px;
+          -webkit-background-size: 60px 14px;
+      }
+
+      .dropbox-dropin-progress .dropin-btn-status {
+        background: url('https://www.dropbox.com/static/images/widgets/dbx-progress-2x.png') no-repeat center center;
+        background-size: 20px 20px;
+          -webkit-background-size: 20px 20px;
+      }
+  }
+
+    .dropbox-saver:hover, .dropbox-chooser:hover {
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    .dropbox-chooser, .dropbox-dropin-btn {
+      line-height: 11px !important;
+      text-decoration: none !important;
+      box-sizing: content-box !important;
+        -webkit-box-sizing: content-box !important;
+        -moz-box-sizing: content-box !important;
+    }
+    </style><script src="https://static.licdn.com/aero-v1/sc/h/dr4cviq5eigwcdjxhybquj4rv"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/4ka183qts3b2jugw44owh7eq0"><script src="https://static.licdn.com/aero-v1/sc/h/e4nuzeibrro8rn5boc4h9piv2"></script><link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/89zm6tgi3bq2huiwzbfacd9nr"></head><body dir="ltr" class="render-mode-BIGPIPE nav-v2 ember-application payment-failure-global-alert-lix-enabled-class icons-loaded boot-complete" data-t-link-to-event-attached="true">
+  
+
+  
+
+    <!-- Start of PMBR-7487 -->
+    <script nonce="" src="https://static.licdn.com/aero-v1/sc/h/988vmt8bv2rfmpquw6nnswc5t"></script>
+    <!-- End of PMBR-7487 -->
+
+    <!-- HUED-11420 -->
+    <div id="artdeco-toasts__wormhole">    <section id="artdeco-toasts" class="artdeco-toasts" aria-label="Toast message">
+      <header class="artdeco-toasts__header">
+        <h2 class="artdeco-toasts__title">
+          0 notifications total
+        </h2>
+      </header>
+
+<!---->
+      <div class="artdeco-toasts_toasts" role="alert">
+<!---->      </div>
+    </section>
+</div>
+    <!-- EMBER_CLI_FASTBOOT_BODY -->
+<div id="app-boot-bg-loader" class="app-boot-bg-skeleton">
+  <div class="top-bar"></div>
+  <div class="content">
+
+    <div class="initial-load-animation fade-load">
+      <div class="linkedin-image display-flex justify-center">
+        <svg xmlns="http://www.w3.org/2000/svg" class="loader__linkedin-logo" width="190" height="48" viewBox="0 0 190 48">
+          <g>
+            <g>
+              <path d="M58,27.22V41H51V28.88c0-3.7-2.07-5.24-4-5.24a5,5,0,0,0-5.14,4.85,4.34,4.34,0,0,0,0,.51V41H35V18h6.6v3.25h.09c.69-1.41,3.64-3.75,7.66-3.75S58,20.22,58,27.22ZM24,41h7V18H24ZM27.5,6.45a4.05,4.05,0,1,0,4.1,4.05,4,4,0,0,0-4-4ZM190,3.5v41a3.5,3.5,0,0,1-3.5,3.5h-41a3.5,3.5,0,0,1-3.5-3.5V3.5A3.5,3.5,0,0,1,145.5,0h41A3.5,3.5,0,0,1,190,3.5ZM156,18h-7V41h7Zm.6-7.5a4.1,4.1,0,1,0-4.15,4.05h.05a4,4,0,0,0,4.1-3.9ZM183,27.22c0-7-4.63-9.72-8.65-9.72s-7,2.34-7.66,3.75h-.09V18H160V41h7V29c0-3.69,2.51-5.33,4.95-5.33,2,0,4.05,1.54,4.05,5.24V41h7ZM8,7H0V41H21V34H8ZM108,29.77v2H91a1.33,1.33,0,0,0,.11.43c.58,1.93,2.67,3.56,5.75,3.56A6.3,6.3,0,0,0,102,33.52l5.1,3.18a12.72,12.72,0,0,1-10.45,4.8C89.94,41.5,84,37.42,84,29.59S90,17.5,96.44,17.5,108,21.81,108,29.77ZM101,27c0-2.4-1.56-4.38-4.75-4.38-3,0-5.09,2-5.25,4.38ZM85.26,18H76.68l-7.54,9.37H69V7H62V41h7V30h.14l7.72,11h8.77L76.2,28.43ZM128,7h7V41h-6.6V38h-.09c-.88,1.52-3.24,3.49-7.4,3.49-5,0-10.91-3.63-10.91-12,0-7.53,5.1-11.95,10.82-11.95a9.55,9.55,0,0,1,7.09,3H128Zm.3,22.49a5.74,5.74,0,0,0-5.59-5.89h-.15A5.54,5.54,0,0,0,116.89,29c0,.15,0,.29,0,.44a5.61,5.61,0,0,0,5.26,5.94h.4A5.83,5.83,0,0,0,128.3,29.49Z" fill="currentColor"></path>
+            </g>
+          </g>
+        </svg>
+      </div>
+      <div class="loading-bar">
+        <div class="blue-bar"></div>
+      </div>
+    </div>
+
+    <div class="loading-animation-nile loading-animation-games">
+      <div class="skeleton-loader-spinner">
+        <div class="skeleton-loader-spinner--bar"></div>
+        <div class="skeleton-loader-spinner--bar"></div>
+        <div class="skeleton-loader-spinner--bar"></div>
+        <div class="skeleton-loader-spinner--bar"></div>
+        <div class="skeleton-loader-spinner--bar"></div>
+        <div class="skeleton-loader-spinner--bar"></div>
+        <div class="skeleton-loader-spinner--bar"></div>
+        <div class="skeleton-loader-spinner--bar"></div>
+        <div class="skeleton-loader-spinner--bar"></div>
+        <div class="skeleton-loader-spinner--bar"></div>
+        <div class="skeleton-loader-spinner--bar"></div>
+        <div class="skeleton-loader-spinner--bar"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="scaffold-immersive-reader-cursor-outlet"></div>
+
+    <script nonce="" src="https://static.licdn.com/aero-v1/sc/h/aobkn9vl8m0ru2zk7o4hw5h8v" data-fastboot-src="/assets/vendor-static.js" crossorigin=""></script>
+    <script nonce="" src="https://static.licdn.com/aero-v1/sc/h/edjfebtivxtgdsu84o68fkto3" data-fastboot-src="/assets/vendor.js" crossorigin=""></script>
+    <script nonce="" id="support-locale-module" data-embroider-ignore="" src="https://static.licdn.com/aero-v1/sc/h/bno8atv2gywanx25twgctog44" data-fastboot-src="/assets/i18n/support_en_US.js" crossorigin=""></script>
+
+    <!-- graphql-script-injection -->
+    <script nonce="" src="https://static.licdn.com/aero-v1/sc/h/a8i9w57wqoyi8fjxs9ulzk14e" data-fastboot-src="/assets/pdsc/register-metadata.js" crossorigin=""></script>
+    <script src="https://static.licdn.com/aero-v1/sc/h/a6o9hyhvlwb1mlwwg0s1afeaz" nonce="" data-fastboot-src="/assets/chunk.517.3783cd8f0358ad10ed26.js" crossorigin=""></script>
+<script src="https://static.licdn.com/aero-v1/sc/h/35t2xm053njmlzs1z3gra4i6y" nonce="" data-fastboot-src="/assets/chunk.143.8e9b75226ca701c9fe1a.js" crossorigin=""></script>
+    <script src="https://static.licdn.com/aero-v1/sc/h/d25gxzch3z5q3wbkpvl2ngui9"></script><script src="https://static.licdn.com/aero-v1/sc/h/36vg879uwbe1ezlfnw7nl46rc"></script><script src="https://static.licdn.com/aero-v1/sc/h/6qzram5sdkp30bhk2298o7b7r"></script><script src="https://static.licdn.com/aero-v1/sc/h/9ck45srgdeo4gc2a02kkoe1uh"></script><script src="https://static.licdn.com/aero-v1/sc/h/77pxcprnnahy35585lqwngeh8"></script>
+    <script nonce="" src="https://static.licdn.com/aero-v1/sc/h/cwnftqkufuuypic1dfnz12jz7" data-fastboot-src="/assets/voyager-web.js" crossorigin=""></script>
+    <div id="artdeco-modal-outlet"></div>
+
+<code style="display: none" id="bpr-guid-1154063">
+  
+</code>
+<code style="display: none" id="datalet-bpr-guid-1154063">
+  {"request":"/voyager/api/voyagerSegmentsDashChameleonConfig","status":200,"body":"bpr-guid-1154063","method":"GET","headers":{"x-li-uuid":"AAYwSfzS/CzK4uIL3DLYew\u003D\u003D"}}
+</code>
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="display: none" class="datalet-bpr-guid-1154063"><code style="display: none" id="bpr-guid-1154064">
+  {"data":{"canBrowseProfiles":false,"reactivationFeaturesEligible":false,"canViewJobAnalytics":false,"canViewWVMP":false,"premiumFreeTrialEligible":true,"canAccessLearningVideos":false,"premiumLearningUpgradeEligible":false,"canViewCompanyInsights":false,"$type":"com.linkedin.voyager.premium.FeatureAccess"},"included":[]}
+</code>
+<code style="display: none" id="datalet-bpr-guid-1154064">
+  {"request":"/voyager/api/premium/featureAccess?name\u003DreactivationFeaturesEligible","status":200,"body":"bpr-guid-1154064","method":"GET","headers":{"x-li-uuid":"AAYwSfzS/CzK4uIL3DLYew\u003D\u003D"}}
+</code>
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="display: none" class="datalet-bpr-guid-1154064"><code style="display: none" id="bpr-guid-1154066">
+  {"data":{"plainId":1487747759,"publicContactInfo":{"$type":"com.linkedin.voyager.identity.shared.PublicContactInfo"},"premiumSubscriber":false,"*miniProfile":"urn:li:fs_miniProfile:ACoAAFitOq8BJP1qDGbKlIGXT1pjV7iHjSypWVk","$type":"com.linkedin.voyager.common.Me"},"included":[{"customPronoun":null,"memorialized":false,"lastName":"Fluesterer","dashEntityUrn":"urn:li:fsd_profile:ACoAAFitOq8BJP1qDGbKlIGXT1pjV7iHjSypWVk","standardizedPronoun":null,"occupation":"Estudiante en Universidad Complutense de Madrid","objectUrn":"urn:li:member:1487747759","$anti_abuse_metadata":{"$anti_abuse_uuid":"a944028b-4378-497a-93eb-3fb56fd6821f"},"backgroundImage":null,"picture":null,"$type":"com.linkedin.voyager.identity.shared.MiniProfile","firstName":"Job","entityUrn":"urn:li:fs_miniProfile:ACoAAFitOq8BJP1qDGbKlIGXT1pjV7iHjSypWVk","publicIdentifier":"job-fluesterer-17b2b1356","trackingId":"jZRmzDmPReavtBn1fLkXOw=="}]}
+</code>
+<code style="display: none" id="datalet-bpr-guid-1154066">
+  {"request":"/voyager/api/me","status":200,"body":"bpr-guid-1154066","method":"GET","headers":{"x-li-uuid":"AAYwSfzS/CzK4uIL3DLYew\u003D\u003D"}}
+</code>
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="display: none" class="datalet-bpr-guid-1154066"><code style="display: none" id="bpr-guid-1154075">
+  
+</code>
+<code style="display: none" id="datalet-bpr-guid-1154075">
+  {"request":"/voyager/api/voyagerLaunchpadDashLaunchpadViews?decorationId\u003Dcom.linkedin.voyager.dash.deco.launchpad.LaunchpadView-92\u0026launchpadContext\u003DTAKEOVER\u0026q\u003Dcontext","status":200,"body":"bpr-guid-1154075","method":"GET","headers":{"x-li-uuid":"AAYwSfzS/CzK4uIL3DLYew\u003D\u003D"}}
+</code>
+
+</code>
+<code style="display: none" id="datalet-bpr-guid-1154083">
+  {"request":"/voyager/api/graphql?includeWebMetadata\u003Dtrue\u0026variables\u003D()\u0026queryId\u003DvoyagerFeedDashGlobalNavs.998834f8daa4cbca25417843e04f16b1","status":200,"body":"bpr-guid-1154083","method":"GET","headers":{"x-li-uuid":"AAYwSfzS/CzK4uIL3DLYew\u003D\u003D"}}
+</code>
+
+</code>
+<code style="display: none" id="datalet-bpr-guid-1154088">
+  {"request":"/voyager/api/graphql?includeWebMetadata\u003Dtrue\u0026variables\u003D(featureAccessTypes:List(CAN_ACCESS_SALES_NAV_BADGE,CAN_ACCESS_ADVERTISE_BADGE))\u0026queryId\u003DvoyagerPremiumDashFeatureAccess.c87b20dac35795f9920f2a8072fd7af5","status":200,"body":"bpr-guid-1154088","method":"GET","headers":{"x-li-uuid":"AAYwSfzS/CzK4uIL3DLYew\u003D\u003D"}}
+</code>
+
+</code>
+<code style="display: none" id="datalet-bpr-guid-1154090">
+  {"request":"/voyager/api/voyagerNotificationsDashBadgingItemCounts","status":200,"body":"bpr-guid-1154090","method":"GET","headers":{"x-li-uuid":"AAYwSfzS/CzK4uIL3DLYew\u003D\u003D"}}
+</code>
+
+</code>
+<code style="display: none" id="datalet-bpr-guid-1154095">
+  {"request":"/voyager/api/graphql?includeWebMetadata\u003Dtrue\u0026variables\u003D(vanityName:sina-rezaei-141953201)\u0026queryId\u003DvoyagerIdentityDashProfiles.ee32334d3bd69a1900a077b5451c646a","status":200,"body":"bpr-guid-1154095","method":"GET","headers":{"x-li-uuid":"AAYwSfzS/CzK4uIL3DLYew\u003D\u003D"}}
+</code>
+
+</code>
+<code style="display: none" id="datalet-bpr-guid-1154098">
+  {"request":"/voyager/api/graphql?includeWebMetadata\u003Dtrue\u0026variables\u003D(profileUrn:urn%3Ali%3Afsd_profile%3AACoAAFitOq8BJP1qDGbKlIGXT1pjV7iHjSypWVk)\u0026queryId\u003DvoyagerIdentityDashProfiles.7bab95a76318a84301169b923d563eb1","status":200,"body":"bpr-guid-1154098","method":"GET","headers":{"x-li-uuid":"AAYwSfzS/CzK4uIL3DLYew\u003D\u003D"}}
+</code>
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="display: none" class="datalet-bpr-guid-1154098"><code style="display: none" id="clientPageInstance">
+  urn:li:page:d_flagship3_profile_view_base;10cc026e-1a96-4022-8cbe-5366faefd2a5
+</code>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="display: none" class="terminatorlet">
+
+
+
+    <div id="a11y-notification" class="visually-hidden" role="region" aria-live="polite"></div>
+  
+
+
+
+
+
+  <svg role="none" xmlns="http://www.w3.org/2000/svg" id="hue-web-icons-sprite" style="display: none;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="close-medium" aria-hidden="true" role="none" data-supported-dps="24x24" fill="currentColor">
+  <path d="M13.42 12L20 18.58 18.58 20 12 13.42 5.42 20 4 18.58 10.58 12 4 5.42 5.42 4 12 10.58 18.58 4 20 5.42z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="search-small" aria-hidden="true" role="none" data-supported-dps="16x16" fill="currentColor">
+  <path d="M14.56 12.44L11.3 9.18a5.51 5.51 0 10-2.12 2.12l3.26 3.26a1.5 1.5 0 102.12-2.12zM3 6.5A3.5 3.5 0 116.5 10 3.5 3.5 0 013 6.5z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="search-medium" aria-hidden="true" role="none" data-supported-dps="24x24" fill="currentColor">
+  <path d="M21.41 18.59l-5.27-5.28A6.83 6.83 0 0017 10a7 7 0 10-7 7 6.83 6.83 0 003.31-.86l5.28 5.27a2 2 0 002.82-2.82zM5 10a5 5 0 115 5 5 5 0 01-5-5z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="caret-small" aria-hidden="true" role="none" data-supported-dps="16x16" fill="currentColor">
+  <path d="M8 11L3 6h10z" fill-rule="evenodd"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="overflow-web-ios-medium" aria-hidden="true" role="none" data-supported-dps="24x24" fill="currentColor">
+  <path d="M14 12a2 2 0 11-2-2 2 2 0 012 2zM4 10a2 2 0 102 2 2 2 0 00-2-2zm16 0a2 2 0 102 2 2 2 0 00-2-2z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="premium-chip-medium" aria-hidden="true" role="none" data-supported-dps="24x24">
+  <path d="M20 20a3.36 3.36 0 001-2.39V6.38A3.38 3.38 0 0017.62 3H6.38A3.36 3.36 0 004 4z" fill="#f8c77e"></path>
+  <path d="M4 4a3.36 3.36 0 00-1 2.38v11.24A3.38 3.38 0 006.38 21h11.24A3.36 3.36 0 0020 20z" fill="#e7a33e"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="overflow-web-ios-small" aria-hidden="true" role="none" data-supported-dps="16x16" fill="currentColor">
+  <path d="M3 9.5A1.5 1.5 0 114.5 8 1.5 1.5 0 013 9.5zM11.5 8A1.5 1.5 0 1013 6.5 1.5 1.5 0 0011.5 8zm-5 0A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 8z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="compose-small" aria-hidden="true" role="none" data-supported-dps="16x16" fill="currentColor">
+  <path d="M15 2.53a1.51 1.51 0 01-.44 1L9.15 9 6 10l1-3.12 5.44-5.44A1.5 1.5 0 0115 2.53zM12 11a1 1 0 01-1 1H5a1 1 0 01-1-1V5a1 1 0 011-1h3V2H5a3 3 0 00-3 3v6a3 3 0 003 3h6a3 3 0 003-3V8h-2z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="chevron-up-small" aria-hidden="true" role="none" data-supported-dps="16x16" fill="currentColor">
+  <path d="M15 11L8 6.39 1 11V8.61L8 4l7 4.61z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="rtl-flip" id="share-linkedin-medium" aria-hidden="true" role="none" data-supported-dps="24x24" fill="currentColor">
+  <path d="M23 12l-4.61 7H16l4-6H8a3.92 3.92 0 00-4 3.84V17a4 4 0 00.19 1.24L5.12 21H3l-.73-2.22A6.4 6.4 0 012 16.94 6 6 0 018 11h12l-4-6h2.39z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="download-medium" aria-hidden="true" role="none" data-supported-dps="24x24" fill="currentColor">
+  <path d="M21 14v5a3 3 0 01-3 3H6a3 3 0 01-3-3v-5h2v5a1 1 0 001 1h12a1 1 0 001-1v-5zm-4-.57V11l-4 2.85V3h-2v10.85L7 11v2.43L12 17z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="report-medium" aria-hidden="true" role="none" data-supported-dps="24x24" fill="currentColor">
+  <path d="M17.9 4.38a5.82 5.82 0 01-1.9.31 6.1 6.1 0 01-1.9-.31l-3.2-1.07A6.41 6.41 0 009 3a5.57 5.57 0 00-1.9.31L6 3.67V2H4v20h2v-8l1.1-.37a6.41 6.41 0 011.9-.32 5.82 5.82 0 011.9.31l3.2 1.07a6 6 0 003.8 0L20 14V3.68z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="signal-notice-medium" aria-hidden="true" role="none" data-supported-dps="24x24" fill="currentColor">
+  <path d="M18 3H6a3 3 0 00-3 3v12a3 3 0 003 3h12a3 3 0 003-3V6a3 3 0 00-3-3zm-4 15h-1a3 3 0 01-3-3 3.22 3.22 0 01.1-.75L11.2 10h2.07L12 14.75A1 1 0 0013 16h1zm-1-9.75A1.25 1.25 0 1114.25 7 1.25 1.25 0 0113 8.25z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="connect-small" aria-hidden="true" role="none" data-supported-dps="16x16" fill="currentColor">
+  <path d="M9 4a3 3 0 11-3-3 3 3 0 013 3zM6.75 8h-1.5A2.25 2.25 0 003 10.25V15h6v-4.75A2.25 2.25 0 006.75 8zM13 8V6h-1v2h-2v1h2v2h1V9h2V8z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="verified-medium" aria-hidden="true" role="none" data-supported-dps="24x24" fill="currentColor">
+  <path d="M18.5 11c0 3.79-2.29 6.76-6.09 8.21l-.4.14-.38-.14C7.8 17.76 5.5 14.78 5.5 11V6.8L12 4.63l6.5 2.17V11zm-6.49-9L3 5v6c0 5 3.12 8.81 7.77 10.56L12 22l1.27-.44C17.9 19.81 21.01 16 21.01 11V5l-8.99-3zm-1.62 10.63L14.11 8h3.21l-5.85 7.28-.87 1.09-.99-.99-2.96-2.97 1.77-1.77 1.98 1.98z" fill="currentColor" fill-rule="evenodd"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="rtl-flip" id="arrow-right-small" aria-hidden="true" role="none" data-supported-dps="16x16" fill="currentColor">
+  <path d="M11.45 3L15 8l-3.55 5H9l2.84-4H2V7h9.84L9 3z"></path>
+</svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="add-small" aria-hidden="true" role="none" data-supported-dps="16x16" fill="currentColor">
+  <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
+</svg>
+
+</svg>
+
+  <!---->
+
+  
+<!---->  
+
+      <div id="artdeco-global-alert-container" class="ember-view">  <style>
+    html::before,
+    #artdeco-global-alert-container {
+      height: 184px;
+    }
+
+    #artdeco-global-alert-container {
+      z-index: 100;
+    }
+
+    .global-alert-offset,
+    .global-alert-offset-top {
+      top: 184px !important;
+    }
+    .global-alert-offset-translate {
+      transform: translateY(184px) !important;
+    }
+    .global-alert-offset-margin {
+      margin-top: 184px !important;
+    }
+
+      html::before,
+      .global-alert-offset,
+      .global-alert-offset-top,
+      .global-alert-offset-translate,
+      .global-alert-offset-margin,
+      #artdeco-global-alert-container,
+      #artdeco-global-alert-container .dismissed {
+        transition-duration: 1194.8051948051948ms;
+        transition-timing-function: cubic-bezier(0,0,.2,1);
+      }
+  </style>
+  <div data-test-global-alert="0" id="urn:li:alert:10" class="artdeco-global-alert artdeco-global-alert--notice artdeco-global-alert--cookie_consent ember-view" style="z-index: 0;">  <section class="artdeco-global-alert__body" data-test-global-alert-body="0">
+    <li-icon aria-hidden="true" type="notify-pebble-icon" class="artdeco-global-alert__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M18 3H6a3 3 0 00-3 3v12a3 3 0 003 3h12a3 3 0 003-3V6a3 3 0 00-3-3zm-4 15h-1a3 3 0 01-3-3 3.22 3.22 0 01.1-.75L11.2 10h2.07L12 14.75A1 1 0 0013 16h1zm-1-9.75A1.25 1.25 0 1114.25 7 1.25 1.25 0 0113 8.25z"></path>
+    </svg></li-icon>
+
+    <div class="artdeco-global-alert__content t-14">
+        <h1 class="t-16">LinkedIn respects your privacy</h1>
+        <div id="ember52" class="attributed-text ember-view"><p>
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including <b>professional and job ads</b>) on and off LinkedIn. Learn more in our <a tabindex="0" href="https://www.linkedin.com/legal/cookie-policy" id="ember53" class="ember-view">Cookie Policy</a>.    </p><p>
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your <a tabindex="0" href="https://www.linkedin.com/settings/member-cookies" id="ember54" class="ember-view">settings</a>.    </p></div>
+        <div class="artdeco-global-alert__action-wrapper">
+            <button data-test-global-alert-action="0" id="ember55" class="artdeco-global-alert__action artdeco-button artdeco-button--inverse artdeco-button--2 artdeco-button--primary ember-view"><!---->
+<span class="artdeco-button__text">
+    Accept
+</span></button>
+            <button data-test-global-alert-action="1" id="ember56" class="artdeco-global-alert__action artdeco-button artdeco-button--inverse artdeco-button--2 artdeco-button--primary ember-view"><!---->
+<span class="artdeco-button__text">
+    Reject
+</span></button>
+        </div>
+    </div>
+
+<!---->  </section>
+</div>
+</div>
+
+<!---->
+<div class="application-outlet">
+        
+    <div class="global-nav__a11y-menu global-alert-offset-top
+        ">
+      <div class="global-nav__a11y-menu-container">
+          <button id="ember10" class="mr4 artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view"><!---->
+<span class="artdeco-button__text">
+    Skip to search
+</span></button>
+
+        <button id="ember11" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view"><!---->
+<span class="artdeco-button__text">
+    Skip to main content
+</span></button>
+
+        
+    <div id="ember12" class="ember-view"><!----></div>
+
+    <button id="ember13" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view ml4" data-test-hotkey-modal-trigger=""><!---->
+<span class="artdeco-button__text">
+    Keyboard shortcuts
+</span></button>
+  
+
+        <button id="ember14" class="global-nav__a11y-menu-close artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="close-medium">
+<!---->    
+    <use href="#close-medium" width="24" height="24"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Close jump menu
+</span></button>
+      </div>
+    </div>
+  
+      
+    <header id="global-nav" aria-label="Global Navigation" class="global-nav global-alert-offset-top
+        
+        
+        global-nav--visible
+        
+        ">
+      <div class="global-nav__content">
+          
+    <a class="uHSoMZelKarpMoXPaKUneRvjGHSMsCSIAOAk " href="https://www.linkedin.com/feed/?nis=true" data-test-app-aware-link="">
+      
+    <div class="ivm-image-view-model    global-nav__branding-logo">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <li-icon type="app-linkedin-bug-color-icon" class="ivm-view-attr__icon  " size="large" role="img" aria-label="LinkedIn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"></path>
+    </svg></li-icon>
+    </div>
+  
+          </div>
+  
+    </a>
+  
+        
+        <div id="global-nav-search" class="global-nav__search
+            ">
+          
+          
+    <div class="search-global-typeahead
+        
+        
+         global-nav__search-typeahead">
+        
+    <div id="global-nav-typeahead" class="search-global-typeahead__typeahead">
+<!---->        
+          
+    <input class="basic-input search-global-typeahead__input search-global-typeahead__input--nile-background
+            search-global-typeahead__input--ellipsis
+            " placeholder="Search" dir="auto" role="combobox" aria-autocomplete="list" aria-label="Search" data-view-name="search-global-typeahead-input" aria-activedescendant="" aria-expanded="false" type="text">
+  
+          <div aria-hidden="true" class="search-global-typeahead__search-icon-container
+              search-global-typeahead__input--nile-background">
+            <svg role="none" aria-hidden="true" class="search-global-typeahead__search-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="search-small">
+<!---->    
+    <use href="#search-small" width="16" height="16"></use>
+</svg>
+
+          </div>
+<!---->          <div class="search-global-typeahead__overlay global-alert-offset-top
+              "></div>
+<!---->        
+    </div>
+  
+      <button class="search-global-typeahead__collapsed-search-button" aria-label="Click to start a search" type="button">
+        <span class="search-global-typeahead__collapsed-search-button-icon t-black--light">
+          <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="search-medium">
+<!---->    
+    <use href="#search-medium" width="24" height="24"></use>
+</svg>
+
+        </span>
+        <div class="search-global-typeahead__collapsed-search-button-text t-black--light t-12 t-normal">
+          Search
+        </div>
+      </button>
+      
+  <div id="ember16" class="ember-view"><!----></div>
+
+    </div>
+  
+      
+        </div>
+
+<!---->
+        <nav class="global-nav__nav" aria-label="Primary Navigation">
+          <ul class="global-nav__primary-items
+              
+              ">
+                <li class="global-nav__primary-item
+                    ">
+                    
+      
+    <a class="uHSoMZelKarpMoXPaKUneRvjGHSMsCSIAOAk  
+         global-nav__primary-link" target="_self" href="https://www.linkedin.com/feed/?nis=true&amp;" data-test-app-aware-link="">
+        
+
+      <div id="ember17" class="global-nav__primary-link-notif artdeco-notification-badge ember-view">  <span class="notification-badge notification-badge--show ">
+        <span aria-hidden="true" class="notification-badge__no-count"></span>
+        <span class="a11y-text" data-test-notification-a11y="">new feed updates notifications</span>
+  </span>
+  
+        
+    <div class="ivm-image-view-model    global-nav__icon-ivm
+            ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <li-icon aria-hidden="true" type="home" class="ivm-view-attr__icon  " size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M23 9v2h-2v7a3 3 0 01-3 3h-4v-6h-4v6H6a3 3 0 01-3-3v-7H1V9l11-7z"></path>
+    </svg></li-icon>
+    </div>
+  
+          </div>
+  
+      
+</div>
+  
+
+      <span class="t-12 break-words block t-black--light t-normal
+          global-nav__primary-link-text" title="Home">
+        Home
+      </span>
+    </a>
+  
+
+<!---->  
+<!----><!----><!---->                </li>
+<!---->                <li class="global-nav__primary-item
+                    ">
+                    
+      
+    <a class="uHSoMZelKarpMoXPaKUneRvjGHSMsCSIAOAk  
+         global-nav__primary-link" target="_self" href="https://www.linkedin.com/mynetwork/?" data-test-app-aware-link="">
+        
+
+        
+    <div class="ivm-image-view-model    global-nav__icon-ivm
+            ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <li-icon aria-hidden="true" type="people" class="ivm-view-attr__icon  " size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M12 16v6H3v-6a3 3 0 013-3h3a3 3 0 013 3zm5.5-3A3.5 3.5 0 1014 9.5a3.5 3.5 0 003.5 3.5zm1 2h-2a2.5 2.5 0 00-2.5 2.5V22h7v-4.5a2.5 2.5 0 00-2.5-2.5zM7.5 2A4.5 4.5 0 1012 6.5 4.49 4.49 0 007.5 2z"></path>
+    </svg></li-icon>
+    </div>
+  
+          </div>
+  
+  
+
+      <span class="t-12 break-words block t-black--light t-normal
+          global-nav__primary-link-text" title="My Network">
+        My Network
+      </span>
+    </a>
+  
+
+<!---->  
+<!----><!----><!---->                </li>
+<!---->                <li class="global-nav__primary-item
+                    ">
+                    
+      
+    <a class="uHSoMZelKarpMoXPaKUneRvjGHSMsCSIAOAk  
+         global-nav__primary-link" target="_self" href="https://www.linkedin.com/jobs/?" data-test-app-aware-link="">
+        
+
+        
+    <div class="ivm-image-view-model    global-nav__icon-ivm
+            ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <li-icon aria-hidden="true" type="job" class="ivm-view-attr__icon  " size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M17 6V5a3 3 0 00-3-3h-4a3 3 0 00-3 3v1H2v4a3 3 0 003 3h14a3 3 0 003-3V6zM9 5a1 1 0 011-1h4a1 1 0 011 1v1H9zm10 9a4 4 0 003-1.38V17a3 3 0 01-3 3H5a3 3 0 01-3-3v-4.38A4 4 0 005 14z"></path>
+    </svg></li-icon>
+    </div>
+  
+          </div>
+  
+  
+
+      <span class="t-12 break-words block t-black--light t-normal
+          global-nav__primary-link-text" title="Jobs">
+        Jobs
+      </span>
+    </a>
+  
+
+<!---->  
+<!----><!----><!---->                </li>
+<!---->                <li class="global-nav__primary-item
+                    ">
+                    
+      
+    <a class="uHSoMZelKarpMoXPaKUneRvjGHSMsCSIAOAk  
+         global-nav__primary-link" target="_self" href="https://www.linkedin.com/messaging/?" data-test-app-aware-link="">
+        
+
+        
+    <div class="ivm-image-view-model    global-nav__icon-ivm
+            ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <li-icon aria-hidden="true" type="nav-small-messaging-icon" class="ivm-view-attr__icon  " size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M16 4H8a7 7 0 000 14h4v4l8.16-5.39A6.78 6.78 0 0023 11a7 7 0 00-7-7zm-8 8.25A1.25 1.25 0 119.25 11 1.25 1.25 0 018 12.25zm4 0A1.25 1.25 0 1113.25 11 1.25 1.25 0 0112 12.25zm4 0A1.25 1.25 0 1117.25 11 1.25 1.25 0 0116 12.25z"></path>
+    </svg></li-icon>
+    </div>
+  
+          </div>
+  
+  
+
+      <span class="t-12 break-words block t-black--light t-normal
+          global-nav__primary-link-text" title="Messaging">
+        Messaging
+      </span>
+    </a>
+  
+
+<!---->  
+<!----><!----><!---->                </li>
+<!---->                <li class="global-nav__primary-item
+                    ">
+                    
+      
+    <a class="uHSoMZelKarpMoXPaKUneRvjGHSMsCSIAOAk  
+         global-nav__primary-link" target="_self" href="https://www.linkedin.com/notifications/?" data-test-app-aware-link="">
+        
+
+        
+    <div class="ivm-image-view-model    global-nav__icon-ivm
+            ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <li-icon aria-hidden="true" type="bell-fill" class="ivm-view-attr__icon  " size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M22 19h-8.28a2 2 0 11-3.44 0H2v-1a4.52 4.52 0 011.17-2.83l1-1.17h15.7l1 1.17A4.42 4.42 0 0122 18zM18.21 7.44A6.27 6.27 0 0012 2a6.27 6.27 0 00-6.21 5.44L5 13h14z"></path>
+    </svg></li-icon>
+    </div>
+  
+          </div>
+  
+  
+
+      <span class="t-12 break-words block t-black--light t-normal
+          global-nav__primary-link-text" title="Notifications">
+        Notifications
+      </span>
+    </a>
+  
+
+<!---->  
+<!----><!----><!---->                </li>
+<!---->                <li class="global-nav__primary-item
+                    ">
+<!---->                    
+    <div id="ember18" class="global-nav__me artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-left ember-view">
+      <button aria-expanded="false" id="ember19" class="global-nav__primary-link global-nav__primary-link-me-menu-trigger artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button" tabindex="0">
+        <img width="24" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" height="24" alt="Job Fluesterer" id="ember20" class="global-nav__me-photo evi-image ghost-person ember-view">
+
+        <span class="t-12 global-nav__primary-link-text">
+          Me
+          <svg role="none" aria-hidden="true" class="global-nav__icon global-nav__icon--small" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="caret-small">
+<!---->    
+    <use href="#caret-small" width="16" height="16"></use>
+</svg>
+
+        </span>
+      
+<!----></button>
+
+      <div tabindex="-1" aria-hidden="true" id="ember21" class="global-nav__me-content artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+
+<!---->  
+<!----><!---->                </li>
+<!---->                <li class="global-nav__primary-item
+                    ">
+<!----><!---->                    
+    <div id="ember22" class="global-nav__primary-item--divider pl3
+        global-nav__app-launcher-menu artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-left ember-view">
+      <button aria-expanded="false" id="ember23" class="global-nav__primary-link global-nav__primary-link-app-launcher-menu-trigger artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button" tabindex="0">
+          
+    <div class="ivm-image-view-model    global-nav__icon-ivm">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <li-icon aria-hidden="true" type="grid" class="ivm-view-attr__icon  " size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M3 3h4v4H3zm7 4h4V3h-4zm7-4v4h4V3zM3 14h4v-4H3zm7 0h4v-4h-4zm7 0h4v-4h-4zM3 21h4v-4H3zm7 0h4v-4h-4zm7 0h4v-4h-4z"></path>
+    </svg></li-icon>
+    </div>
+  
+          </div>
+  
+
+        <span class="t-12 global-nav__primary-link-text" title="For Business">
+          For Business
+          <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="caret-small">
+<!---->    
+    <use href="#caret-small" width="16" height="16"></use>
+</svg>
+
+        </span>
+      
+<!----></button>
+
+      <div tabindex="-1" aria-hidden="true" id="ember24" class="global-nav__app-launcher-menu-content artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  
+<!---->                </li>
+<!---->                <li class="global-nav__primary-item
+                    ">
+<!----><!----><!---->                    
+<!---->
+      
+        
+          <div class="premium-upsell-link">
+            <a href="https://www.linkedin.com/premium/products/?upsellOrderOrigin=premium_nav_upsell_text&amp;referenceId=RoQ5NYCjSruVqtkolflmlA%3D%3D&amp;destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsina-rezaei-141953201%2F" class="link-without-visited-state global-nav__primary-link global-nav__primary-link--premium-upsell global-nav__spotlight-premium-upsell premium-upsell-link--truncate premium-upsell-link--margin premium-upsell-link--icon" data-view-name="premium-upsell-link">
+              
+    <span class="global-nav__primary-link--single-line">
+        <svg role="none" aria-hidden="true" class="global-nav__primary-link--premium-chip" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="premium-chip-medium">
+<!---->    
+    <use href="#premium-chip-medium" width="24" height="24"></use>
+</svg>
+
+      <span class="">
+          Try Premium for €0
+      </span>
+    </span>
+  
+            </a>
+          </div>
+      
+        
+  
+                </li>
+<!---->
+<!---->          </ul>
+        </nav>
+      </div>
+    </header>
+  
+
+    
+    <div class="videoinappalert-inapp-alerts-manager
+        hidden">
+      
+<!---->    
+    </div>
+  
+
+<!---->
+<div class="authentication-outlet">
+<!---->  <div id="profile-content" class="extended tetris pv-profile-body-wrapper">
+  <div class="body">
+    
+
+      <div class="scaffold-layout__tracking-element"></div>
+
+<div class="scaffold-layout
+    scaffold-layout--breakpoint-xl
+    scaffold-layout--main-aside
+    
+    scaffold-layout--reflow
+    
+     pv-profile pvs-loader-wrapper__shimmer--animate">
+    <section class="scaffold-layout-toolbar
+    scaffold-layout-toolbar--is-fixed
+    
+    ">
+  <div class="scaffold-layout-toolbar__content scaffold-layout-container
+      scaffold-layout-container--reflow
+      ">
+    
+      
+        
+    
+    <div class="YFbbfyVuAYnYAOftTajDmDAylIZstsyWM pv1">
+      <div id="ember29" class="artdeco-entity-lockup artdeco-entity-lockup--size-1 ember-view nLukYRDoAPrnGisxfYMsExwoDhpUOZvdcJnbQ">
+        
+
+    <div class="presence-entity presence-entity--size-1 m1">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQGzQE49aB2JSg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729492837118?e=1747267200&amp;v=beta&amp;t=6BmsaVy84cLpwFnMy1Vflg75JcOwz8wo3fZ7xgwTI-Q" loading="lazy" alt="Sina Rezaei" id="ember30" class="presence-entity__image   EntityPhoto-circle-1 evi-image lazy-image ember-view">
+
+      
+
+    <div class="presence-entity__indicator
+          
+          presence-entity__indicator--size-1 presence-indicator
+        hidden
+        presence-indicator--size-1">
+      <span class="visually-hidden">
+          Status is offline
+              </span>
+    </div>
+  
+    </div>
+  
+        <div id="ember31" class="artdeco-entity-lockup__content ember-view overflow-hidden ml1 align-self-flex-start">
+          <div id="ember32" class="artdeco-entity-lockup__title ember-view">
+            Sina Rezaei
+<!---->          
+</div>
+
+          <div id="ember33" class="artdeco-entity-lockup__subtitle ember-view truncate">
+            Computer Science
+          </div>
+        </div>
+      
+</div>
+      <div class="pv-profile-sticky-header-v2__actions-container">
+        
+      
+  <div class="display-flex inline-flex">
+        <div class="pvs-sticky-header-profile-actions inline-flex">
+      <div class="pvs-sticky-header-profile-actions__action">
+        <div id="ember58" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-left ember-view">
+  <button aria-expanded="false" aria-label="More actions" id="ember57-profile-overflow-action" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view oBNacyovsiLhIhyrbQZoiNcLDHjanlizfBo
+      artdeco-button artdeco-button--secondary artdeco-button--muted
+      artdeco-button--2
+      
+      " type="button" tabindex="0">
+      <span>More</span>
+      
+<!----></button>
+  <div tabindex="-1" aria-hidden="true" id="ember60" class="AHSmDiXYdHYkCReibAjFbaMAuoajlWcEruvzSQH artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-left artdeco-dropdown__content--placement-bottom ember-view"><div class="artdeco-dropdown__content-inner">
+  
+    <ul>
+        <li>
+          <!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+      <div aria-label="Send Sina Rezaei’s profile via message" role="button" id="ember61" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view full-width display-flex align-items-center" tabindex="0"><!---->
+    <svg role="none" aria-hidden="true" class="mr3 flex-grow-0" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="share-linkedin-medium" data-rtl="true">
+<!---->    
+    <use href="#share-linkedin-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="display-flex t-normal flex-1" aria-hidden="true">
+      Send profile in a message
+    </span>
+  </div>
+
+
+<!---->
+
+
+        </li>
+        <li>
+          <!---->
+<!---->
+<!---->
+<!---->
+<!---->
+      <div aria-label="Save to PDF" role="button" id="ember62" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view full-width display-flex align-items-center" tabindex="0"><!---->
+      <svg role="none" aria-hidden="true" class="mr3 flex-grow-0" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="download-medium">
+<!---->    
+    <use href="#download-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="display-flex t-normal flex-1" aria-hidden="true">Save to PDF</span>
+  </div>
+
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+        </li>
+        <li>
+          <!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+        </li>
+        <li>
+          <!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+      <div aria-label="Report or block Sina Rezaei’s profile" role="button" id="ember63" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view full-width display-flex align-items-center" tabindex="0"><!---->
+      <svg role="none" aria-hidden="true" class="mr3 flex-grow-0" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="report-medium">
+<!---->    
+    <use href="#report-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="display-flex t-normal flex-1" aria-hidden="true">Report / Block</span>
+  </div>
+
+
+<!---->
+
+<!---->
+<!---->
+<!---->
+
+
+        </li>
+
+        <li>
+          
+    <div role="button" id="ember64" class="display-flex align-items-center full-width  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
+        <svg role="none" aria-hidden="true" class="mr3 flex-grow-0" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="signal-notice-medium">
+<!---->    
+    <use href="#signal-notice-medium" width="24" height="24"></use>
+</svg>
+
+      <span class="display-flex t-normal flex-1" aria-hidden="true">About this profile</span>
+      <span class="a11y-text" aria-live="off">About this profile</span>
+    </div>
+
+        </li>
+    </ul>
+  
+</div>
+</div>
+</div>
+      </div>
+<!---->      <!---->
+<!---->
+<!---->
+        
+
+    <div class="entry-point aWhqypVRYEPHUzdEORkSWeffhNmrqtbApVNj">
+      
+    <div></div>
+  
+
+          
+      <button aria-label="Message Sina" id="ember83" class="artdeco-button artdeco-button--2 artdeco-button--secondary ember-view pvs-sticky-header-profile-actions__action"><!---->
+<span class="artdeco-button__text">
+    Message
+</span></button>
+    
+    </div>
+  
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+            
+      
+        
+    
+          
+        
+    <button aria-label="Invite Sina Rezaei to connect" id="ember66" class="artdeco-button artdeco-button--2 artdeco-button--primary ember-view pvs-sticky-header-profile-actions__action" type="button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="connect-small">
+<!---->    
+    <use href="#connect-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Connect
+</span></button>
+  
+      
+        
+
+<!---->  
+
+<!---->
+<!---->
+<!---->  
+  
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+  </div>
+  <!---->
+
+
+<!---->
+<!---->  </div>
+
+    
+      </div>
+    </div>
+  
+  
+      
+    
+  </div>
+</section>
+
+  <div class="scaffold-layout__inner scaffold-layout-container
+      scaffold-layout-container--reflow
+      ">
+<!---->
+      <div class="scaffold-layout__row scaffold-layout__content
+          scaffold-layout__content--main-aside
+          
+          
+          scaffold-layout__content--has-aside
+          
+          ">
+<!---->
+            <main class="pVNxdSzTDjquYSZQTXhofYRNeegzmrJ">
+    
+            
+        
+<!----><!---->    
+    <section class="artdeco-card xeFpsNrVenZdbBvpbqFXmEoxrKcJKieIpMQ
+        " data-member-id="865297921">
+<!---->
+  
+      <div class="top-card-background-hero-image" style="min-height: 201px; max-height: 201px;">
+        <div class="top-card-background-hero-image__bg-image">
+            
+    <div tabindex="0" role="button" aria-label="Background Image" class="profile-background-image">
+        <div class="profile-background-image__image-container">
+            <img class="profile-background-image__image relative
+                full-width full-height" id="profile-background-image-target-image" alt="Background Image" src="https://media.licdn.com/dms/image/v2/D4D16AQH-k77KSUn11g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726076183153?e=1747267200&amp;v=beta&amp;t=bsYJdvhRE9DWHE2leZrJ_Op95t5VbdIyBrpfDphLAo0" style="left:0px;top:0px;" fetchpriority="high">
+        </div>
+          </div>
+  
+        </div>
+      </div>
+      <div class="ph5 pb5">
+        <div class="display-flex">
+          <div class="UmChFScTNHJycDLolOcUevZWJoItQJrkBHcKg
+              text-align-left pv-top-card--photo-resize">
+              
+    <div class="pv-top-card__non-self-photo-wrapper ml0">
+      
+    <button class="shhiImvZLvfVSnrITTIRqQKDivfcTjZlNkw
+        pv-top-card-profile-picture__container display-block
+        pv-top-card__photo presence-entity__image EntityPhoto-circle-9
+        " aria-label="open profile picture" type="button">
+        <img width="200" title="Sina Rezaei" src="https://media.licdn.com/dms/image/v2/D4D03AQGzQE49aB2JSg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729492837118?e=1747267200&amp;v=beta&amp;t=4T2_yIrGDQXRFr8sbUJypUFaUBrq8UewvUAa2jHnuTs" height="200" alt="Sina Rezaei" id="ember34" class="yaXkmhDuXQVsPLEwedSrwJgRTQxlikzaaY pv-top-card-profile-picture__image--show evi-image ember-view">
+
+<!---->
+    </button>
+  
+    </div>
+  
+          </div>
+          <div class="flex-1 flex-column">
+            <div class="JkGaHRgWVpuLeEQWFmSYwKJAbnZjKnioHGkNA">
+<!----><!----><!---->            </div>
+          </div>
+        </div>
+
+        
+    <div class="mt2 relative">
+      <div class="HNGwLWMDPIoYbxkPkeMtywnfFGJjFXxoJJkuNcY
+          ">
+        <div class="YQKtebzubiKNEIWfKBfJEGHTafXYINDk">
+          <span tabindex="-1" id="ember35" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-bottom artdeco-hoverable-trigger--is-hoverable ember-view">
+            <a href="/in/sina-rezaei-141953201/overlay/about-this-profile/" id="ember36" class="ember-view KodQRnqaxFZKbbVyFJGUToNmygkQGTEZ" aria-label="Sina Rezaei" aria-describedby="artdeco-hoverable-artdeco-gen-42">
+              <h1 class="sJlATPGtyhrnuKlKqeFAWOzgrMgdvKOBE
+                  inline t-24 v-align-middle break-words">Sina Rezaei</h1>
+                <svg role="none" aria-hidden="true" class="pv-text-details__verified-badge-icon v-align-middle" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="verified-medium">
+<!---->    
+    <use href="#verified-medium" width="24" height="24"></use>
+</svg>
+
+<!----><!---->            </a>
+            <div id="artdeco-gen-42" class="ember-view"><div id="ember38" class="ember-view"></div></div>
+          </span>
+<!----><!----><!----><!---->        </div>
+<!---->        <div class="text-body-medium break-words" data-generated-suggestion-target="urn:li:fsu_profileActionDelegate:-843036951">
+          Computer Science
+        </div>
+<!----><!----><!---->      </div>
+        <ul class="KSvzibBwprDeaTykSKQLAmaVUATdKBhPsUk">
+            <li class="mdRtAlrRWjGmxoTZymSsXNgmkuNmlHUYjAbM">
+              <button class="wGjXmuUDmKtfryUtGmnYwusKESEgPQCvwqStqhU text-align-left" aria-label="Current company: Infineon Technologies. Click to skip to experience card" type="button">
+                <img src="https://media.licdn.com/dms/image/v2/C4E0BAQG0dfCs_tMDUQ/company-logo_100_100/company-logo_100_100/0/1631307630627?e=1750291200&amp;v=beta&amp;t=VitC1mTf_E3FUkyEEpc30pnSkMHEDfaoAeyX_j_nTP4" alt="" id="ember67" class="evi-image ember-view FdQECNvjcJFygIMEkvjwPmDIPvCAcPuhogAcXA EntityPhoto-square-1">
+                <span class="ATaZkXrhubiUxvMnSskNZBqkLSeHTNEtWs hoverable-link-text break-words text-body-small t-black">
+                  
+    <div class="VOCaNzCXCIRQZHtvKudkdQEYJUtymukYvcy
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+        " style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+        Infineon Technologies
+      
+<!---->    </div>
+  
+                </span>
+              </button>
+            </li>
+            <li class="mdRtAlrRWjGmxoTZymSsXNgmkuNmlHUYjAbM">
+              <button class="wGjXmuUDmKtfryUtGmnYwusKESEgPQCvwqStqhU text-align-left" aria-label="Education: Technical University of Munich. Click to skip to education card" type="button">
+                <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGSY3LfIy8bEg/company-logo_100_100/B4DZWFEeeXHYAQ-/0/1741694298436/technische_universitat_munchen_logo?e=1750291200&amp;v=beta&amp;t=ZM4554rL3q4a1l2_k7oOoy6ZE9k9Rj11zgsjjLIyOI0" alt="" id="ember68" class="evi-image ember-view FdQECNvjcJFygIMEkvjwPmDIPvCAcPuhogAcXA EntityPhoto-square-1">
+                <span class="ATaZkXrhubiUxvMnSskNZBqkLSeHTNEtWs hoverable-link-text break-words text-body-small t-black">
+                  
+    <div class="VOCaNzCXCIRQZHtvKudkdQEYJUtymukYvcy
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+        " style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+        Technical University of Munich
+      
+<!---->    </div>
+  
+                </span>
+              </button>
+            </li>
+        </ul>
+      <div class="HNGwLWMDPIoYbxkPkeMtywnfFGJjFXxoJJkuNcY mt2">
+<!---->        <span class="text-body-small inline t-black--light break-words">
+          Munich, Bavaria, Germany
+        </span>
+          <span class="QPbwxLQaQnEBmgRzVgqBpybfPKiUIMqPxJgi t-black--light">
+            <a href="/in/sina-rezaei-141953201/overlay/contact-info/" id="top-card-text-details-contact-info" class="ember-view link-without-visited-state cursor-pointer text-heading-small inline-block break-words">
+              Contact info
+            </a>
+          </span>
+      </div>
+    </div>
+  
+<!---->
+        
+    <ul class="VxDrlJYTQXFeGyMIKlPkHDjAsuUsahKhlFlargo PzRKVrTwKeERAMaifSnaIFzTqvNzRMnqLsxJeU">
+<!---->
+        <li class="text-body-small">
+            <span class="t-black--light">
+              <span class="t-bold">500+</span> connections
+            </span>
+        </li>
+    </ul>
+  
+<!---->
+        
+  <div class="tqIuaXelmyOtspWahmurMSHOBQJtxnwQaE
+      ">
+<!---->
+<!---->
+      <div class="YfwhivYJPjikahkwttfLpYRcUCPcxmkIqI
+    
+    ">
+          
+      
+        
+    
+          
+        
+    <button aria-label="Invite Sina Rezaei to connect" id="ember69" class="artdeco-button artdeco-button--2 artdeco-button--primary ember-view oBNacyovsiLhIhyrbQZoiNcLDHjanlizfBo" type="button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="connect-small">
+<!---->    
+    <use href="#connect-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Connect
+</span></button>
+  
+      
+        
+
+<!---->  
+
+<!---->
+<!---->
+<!---->  
+  
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+
+    <!---->
+<!---->
+<!---->
+        
+
+    <div class="entry-point aWhqypVRYEPHUzdEORkSWeffhNmrqtbApVNj">
+      
+    <div></div>
+  
+
+          
+      <button aria-label="Message Sina" id="ember84" class="artdeco-button artdeco-button--2 artdeco-button--secondary ember-view oBNacyovsiLhIhyrbQZoiNcLDHjanlizfBo"><!---->
+<span class="artdeco-button__text">
+    Message
+</span></button>
+    
+    </div>
+  
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+
+<!---->
+<!---->
+<!---->
+    <div id="ember72" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-left ember-view">
+  <button aria-expanded="false" aria-label="More actions" id="ember71-profile-overflow-action" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view oBNacyovsiLhIhyrbQZoiNcLDHjanlizfBo
+      artdeco-button artdeco-button--secondary artdeco-button--muted
+      artdeco-button--2
+      
+      " type="button" tabindex="0">
+      <span>More</span>
+      
+<!----></button>
+  <div tabindex="-1" aria-hidden="true" id="ember74" class="AHSmDiXYdHYkCReibAjFbaMAuoajlWcEruvzSQH artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-left artdeco-dropdown__content--placement-bottom ember-view"><div class="artdeco-dropdown__content-inner">
+  
+    <ul>
+        <li>
+          <!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+      <div aria-label="Send Sina Rezaei’s profile via message" role="button" id="ember75" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view full-width display-flex align-items-center" tabindex="0"><!---->
+    <svg role="none" aria-hidden="true" class="mr3 flex-grow-0" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="share-linkedin-medium" data-rtl="true">
+<!---->    
+    <use href="#share-linkedin-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="display-flex t-normal flex-1" aria-hidden="true">
+      Send profile in a message
+    </span>
+  </div>
+
+
+<!---->
+
+
+        </li>
+        <li>
+          <!---->
+<!---->
+<!---->
+<!---->
+<!---->
+      <div aria-label="Save to PDF" role="button" id="ember76" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view full-width display-flex align-items-center" tabindex="0"><!---->
+      <svg role="none" aria-hidden="true" class="mr3 flex-grow-0" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="download-medium">
+<!---->    
+    <use href="#download-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="display-flex t-normal flex-1" aria-hidden="true">Save to PDF</span>
+  </div>
+
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+        </li>
+        <li>
+          <!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+        </li>
+        <li>
+          <!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+      <div aria-label="Report or block Sina Rezaei’s profile" role="button" id="ember77" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view full-width display-flex align-items-center" tabindex="0"><!---->
+      <svg role="none" aria-hidden="true" class="mr3 flex-grow-0" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="report-medium">
+<!---->    
+    <use href="#report-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="display-flex t-normal flex-1" aria-hidden="true">Report / Block</span>
+  </div>
+
+
+<!---->
+
+<!---->
+<!---->
+<!---->
+
+
+        </li>
+
+        <li>
+          
+    <div role="button" id="ember78" class="display-flex align-items-center full-width  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
+        <svg role="none" aria-hidden="true" class="mr3 flex-grow-0" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="signal-notice-medium">
+<!---->    
+    <use href="#signal-notice-medium" width="24" height="24"></use>
+</svg>
+
+      <span class="display-flex t-normal flex-1" aria-hidden="true">About this profile</span>
+      <span class="a11y-text" aria-live="off">About this profile</span>
+    </div>
+
+        </li>
+    </ul>
+  
+</div>
+</div>
+</div>
+</div>
+<!----><!---->
+<!---->
+<!---->
+
+  </div>
+
+<!---->
+      </div>
+      <div id="profile-sticky-header-toggle"></div>
+<!---->
+<!---->
+<!---->    
+</section>
+<!----><!---->  
+  
+        
+    
+    
+<!---->
+  
+  
+        
+<!---->
+    
+<!---->  
+  
+        
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+        <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="content_collections" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Activity<!----></span><span class="visually-hidden"><!---->Activity<!----></span>
+              </h2>
+              <p class="OezjpTGzkARqxftGnEYihQdRaFHUTfQR pvs-header__optional-link text-body-small">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->582 followers<!----></span><span class="visually-hidden"><!---->582 followers<!----></span>
+              </p>
+<!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+  
+    
+    <div class="mb3">
+      
+        
+<!---->  
+      
+    </div>
+    <div class="pv0 ph5">
+      
+          
+      <div class="display-flex flex-column full-width pb3">
+        <span class="text-body-medium-bold">Sina hasn’t posted yet</span>
+        <span class="text-body-small">Recent posts Sina shares will be displayed here.</span>
+      </div>
+  
+      
+    </div>
+      <footer>
+        <a class="uHSoMZelKarpMoXPaKUneRvjGHSMsCSIAOAk  profile-creator-shared-content-view__footer-action artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--3 artdeco-button--fluid artdeco-button--tertiary" href="https://www.linkedin.com/in/sina-rezaei-141953201/recent-activity/all/" data-test-app-aware-link="">
+          <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="arrow-right-small" data-rtl="true">
+<!---->    
+    <use href="#arrow-right-small" width="16" height="16"></use>
+</svg>
+
+          <span class="artdeco-button__text">
+            Show all activity
+          </span>
+        </a>
+      </footer>
+  
+  
+
+  
+<!---->        
+</section>
+
+<!---->  
+        
+        <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="experience" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Experience<!----></span><span class="visually-hidden"><!---->Experience<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOuDjdzZKv
+            
+            
+            ">
+            <li class="artdeco-list__item IANaOJqZRigkBgVXRSFfQISHWCpQqysgxMFY eZkEHxEEdOsaqMBAlqnHsPLrZsxZuV">
+              
+          
+<!---->    <div class="wmPitBHbtyvcVdQIOYInQEZyMmYBACUkxvUWg
+        efPrnqIrGDIXHWDjgbtZbPboosVBbHOSk dnbOruIertyTzepsjjyhlBkHNEDMuqkHBgAI
+        
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+            
+            pvs-entity__image-container--outline-offset
+            display-flex" target="_self" href="https://www.linkedin.com/company/2148/">
+              
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/v2/C4E0BAQG0dfCs_tMDUQ/company-logo_100_100/company-logo_100_100/0/1631307630627?e=1750291200&amp;v=beta&amp;t=VitC1mTf_E3FUkyEEpc30pnSkMHEDfaoAeyX_j_nTP4" loading="lazy" height="48" alt="Infineon Technologies logo" id="ember86" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column align-self-center flex-grow-1">
+        <div class="display-flex flex-row justify-space-between">
+          
+      <div class="
+              display-flex flex-column full-width">
+        
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 t-bold">
+            <span aria-hidden="true"><!---->Software Engineer<!----></span><span class="visually-hidden"><!---->Software Engineer<!----></span>
+          </div>
+<!---->      
+      </div>
+      
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Infineon Technologies · Work Study<!----></span><span class="visually-hidden"><!---->Infineon Technologies · Work Study<!----></span>
+                </span>
+              <span class="t-14 t-normal
+                  t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Aug 2024 - Present · 8 mos<!----></span><span class="visually-hidden"><!---->Aug 2024 to Present · 8 mos<!----></span>
+              </span>
+<!---->          
+      </div>
+      
+        </div>
+<!---->      </div>
+<!---->
+<!---->    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item IANaOJqZRigkBgVXRSFfQISHWCpQqysgxMFY eZkEHxEEdOsaqMBAlqnHsPLrZsxZuV">
+              
+          
+<!---->    <div class="wmPitBHbtyvcVdQIOYInQEZyMmYBACUkxvUWg
+        efPrnqIrGDIXHWDjgbtZbPboosVBbHOSk dnbOruIertyTzepsjjyhlBkHNEDMuqkHBgAI
+        
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+            
+            pvs-entity__image-container--outline-offset
+            display-flex" target="_self" href="https://www.linkedin.com/company/2387/">
+              
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/v2/D4D0BAQG-ty2ieqUafw/company-logo_100_100/company-logo_100_100/0/1719814324897/bmw_group_logo?e=1750291200&amp;v=beta&amp;t=l59YmRDF5czeeeLrYANmbB3TDqw8vthZgwUAoJZ1xQA" loading="lazy" height="48" alt="BMW Group logo" id="ember90" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column align-self-center flex-grow-1">
+        <div class="display-flex flex-row justify-space-between">
+          
+      <div class="
+              display-flex flex-column full-width">
+        
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 t-bold">
+            <span aria-hidden="true"><!---->Software Engineer - Network Datacenter<!----></span><span class="visually-hidden"><!---->Software Engineer - Network Datacenter<!----></span>
+          </div>
+<!---->      
+      </div>
+      
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->BMW Group · Work Study<!----></span><span class="visually-hidden"><!---->BMW Group · Work Study<!----></span>
+                </span>
+              <span class="t-14 t-normal
+                  t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Apr 2023 - May 2024 · 1 yr 2 mos<!----></span><span class="visually-hidden"><!---->Apr 2023 to May 2024 · 1 yr 2 mos<!----></span>
+              </span>
+              <span class="t-14 t-normal
+                  t-black--light">
+                <span aria-hidden="true"><!---->Munich, Bavaria, Germany<!----></span><span class="visually-hidden"><!---->Munich, Bavaria, Germany<!----></span>
+              </span>
+          
+      </div>
+      
+        </div>
+<!---->      </div>
+<!---->
+<!---->    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item IANaOJqZRigkBgVXRSFfQISHWCpQqysgxMFY eZkEHxEEdOsaqMBAlqnHsPLrZsxZuV">
+              
+          
+<!---->    <div class="wmPitBHbtyvcVdQIOYInQEZyMmYBACUkxvUWg
+        efPrnqIrGDIXHWDjgbtZbPboosVBbHOSk dnbOruIertyTzepsjjyhlBkHNEDMuqkHBgAI
+        
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+            
+            pvs-entity__image-container--outline-offset
+            display-flex" target="_self" href="https://www.linkedin.com/company/1043/">
+              
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/v2/D4D0BAQFK_4wGnzwPTQ/company-logo_100_100/company-logo_100_100/0/1719931174735/siemens_logo?e=1750291200&amp;v=beta&amp;t=WytS8PrDA-yQwI_dxFC7jTPOvLU72aVY07PAlyJlkYM" loading="lazy" height="48" alt="Siemens logo" id="ember94" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column align-self-center flex-grow-1">
+        <div class="display-flex flex-row justify-space-between">
+          
+      <div class="
+              display-flex flex-column full-width">
+        
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 t-bold">
+            <span aria-hidden="true"><!---->Data Analyst<!----></span><span class="visually-hidden"><!---->Data Analyst<!----></span>
+          </div>
+<!---->      
+      </div>
+      
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Siemens · Work Study<!----></span><span class="visually-hidden"><!---->Siemens · Work Study<!----></span>
+                </span>
+              <span class="t-14 t-normal
+                  t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Aug 2021 - Sep 2022 · 1 yr 2 mos<!----></span><span class="visually-hidden"><!---->Aug 2021 to Sep 2022 · 1 yr 2 mos<!----></span>
+              </span>
+              <span class="t-14 t-normal
+                  t-black--light">
+                <span aria-hidden="true"><!---->Munich, Bavaria, Germany<!----></span><span class="visually-hidden"><!---->Munich, Bavaria, Germany<!----></span>
+              </span>
+          
+      </div>
+      
+        </div>
+<!---->      </div>
+<!---->
+<!---->    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item IANaOJqZRigkBgVXRSFfQISHWCpQqysgxMFY eZkEHxEEdOsaqMBAlqnHsPLrZsxZuV">
+              
+          
+<!---->    <div class="wmPitBHbtyvcVdQIOYInQEZyMmYBACUkxvUWg
+        efPrnqIrGDIXHWDjgbtZbPboosVBbHOSk dnbOruIertyTzepsjjyhlBkHNEDMuqkHBgAI
+        
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+            
+            pvs-entity__image-container--outline-offset
+            display-flex" target="_self" href="https://www.linkedin.com/company/10636655/">
+              
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/v2/C4D0BAQGzOep26lC03w/company-logo_100_100/company-logo_100_100/0/1638298367721/daimlertruckag_logo?e=1750291200&amp;v=beta&amp;t=gBrZylJyPW0RzD_Ayah7pREKR66wCKQ9eAvFYgCjwwo" loading="lazy" height="48" alt="Daimler Truck AG logo" id="ember98" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column align-self-center flex-grow-1">
+        <div class="display-flex flex-row justify-space-between">
+          
+      <div class="
+              display-flex flex-column full-width">
+        
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 t-bold">
+            <span aria-hidden="true"><!---->Big Data and Advanced Analytics<!----></span><span class="visually-hidden"><!---->Big Data and Advanced Analytics<!----></span>
+          </div>
+<!---->      
+      </div>
+      
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Daimler Truck AG · Internship<!----></span><span class="visually-hidden"><!---->Daimler Truck AG · Internship<!----></span>
+                </span>
+              <span class="t-14 t-normal
+                  t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Feb 2021 - Apr 2021 · 3 mos<!----></span><span class="visually-hidden"><!---->Feb 2021 to Apr 2021 · 3 mos<!----></span>
+              </span>
+              <span class="t-14 t-normal
+                  t-black--light">
+                <span aria-hidden="true"><!---->Stuttgart, Baden-Württemberg, Germany<!----></span><span class="visually-hidden"><!---->Stuttgart, Baden-Württemberg, Germany<!----></span>
+              </span>
+          
+      </div>
+      
+        </div>
+<!---->      </div>
+<!---->
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+<!---->        
+</section>
+
+<!---->  
+        
+        <section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="education" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="XbakjhbtRxjcotsBMCQvLbvrIFupKVwjoRzHF">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="sYdimrlejgbnrYdbqewwJFppqSXQTbeLBXpw">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOuDjdzZKv
+            
+            
+            ">
+            <li class="artdeco-list__item IANaOJqZRigkBgVXRSFfQISHWCpQqysgxMFY eZkEHxEEdOsaqMBAlqnHsPLrZsxZuV">
+              
+          
+<!---->    <div class="wmPitBHbtyvcVdQIOYInQEZyMmYBACUkxvUWg
+        efPrnqIrGDIXHWDjgbtZbPboosVBbHOSk dnbOruIertyTzepsjjyhlBkHNEDMuqkHBgAI
+        
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a class="optional-action-target-wrapper 
+            
+            pvs-entity__image-container--outline-offset
+            display-flex" target="_self" href="https://www.linkedin.com/company/166283/">
+              
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/v2/D4D0BAQGSY3LfIy8bEg/company-logo_100_100/B4DZWFEeeXHYAQ-/0/1741694298436/technische_universitat_munchen_logo?e=1750291200&amp;v=beta&amp;t=ZM4554rL3q4a1l2_k7oOoy6ZE9k9Rj11zgsjjLIyOI0" loading="lazy" height="48" alt="Technical University of Munich logo" id="ember102" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column align-self-center flex-grow-1">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/166283/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Technical University of Munich<!----></span><span class="visually-hidden"><!---->Technical University of Munich<!----></span>
+          </div>
+<!---->      
+      </div>
+      
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Master's degree, Computer Science<!----></span><span class="visually-hidden"><!---->Master's degree, Computer Science<!----></span>
+                </span>
+              <span class="t-14 t-normal
+                  t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->2024 - 2026<!----></span><span class="visually-hidden"><!---->2024 - 2026<!----></span>
+              </span>
+<!---->          </a>
+  
+        </div>
+<!---->      </div>
+<!---->
+<!---->    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item IANaOJqZRigkBgVXRSFfQISHWCpQqysgxMFY eZkEHxEEdOsaqMBAlqnHsPLrZsxZuV">
+              
+          
+<!---->    <div class="wmPitBHbtyvcVdQIOYInQEZyMmYBACUkxvUWg
+        efPrnqIrGDIXHWDjgbtZbPboosVBbHOSk dnbOruIertyTzepsjjyhlBkHNEDMuqkHBgAI
+        
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a class="optional-action-target-wrapper 
+            
+            pvs-entity__image-container--outline-offset
+            display-flex" target="_self" href="https://www.linkedin.com/company/22291036/">
+              
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/v2/D4E0BAQFvdiB0Zs8Yww/company-logo_100_100/company-logo_100_100/0/1688987933232/managemore_by_unternehmertum_logo?e=1750291200&amp;v=beta&amp;t=jZlPQDJH2QrMgT81JgPBnQ7NFQlV5TS_jfBmGHtv_3A" loading="lazy" height="48" alt="Manage and More by UnternehmerTUM logo" id="ember106" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column align-self-center flex-grow-1">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/22291036/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Manage and More by UnternehmerTUM<!----></span><span class="visually-hidden"><!---->Manage and More by UnternehmerTUM<!----></span>
+          </div>
+<!---->      
+      </div>
+      
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Entrepreneurship Scholarship<!----></span><span class="visually-hidden"><!---->Entrepreneurship Scholarship<!----></span>
+                </span>
+              <span class="t-14 t-normal
+                  t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->2024 - 2025<!----></span><span class="visually-hidden"><!---->2024 - 2025<!----></span>
+              </span>
+<!---->          </a>
+  
+        </div>
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE pvs-entity__sub-components">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOuDjdzZKv
+            
+            
+            ">
+            <li class="eZkEHxEEdOsaqMBAlqnHsPLrZsxZuV">
+              
+          
+    <div class="ffOegTZvGMmCrJlfPVaPBetHzmGppJRE">
+<!---->        <ul class="xZDCwgcupRZoaPuPuuCROMUjTOuDjdzZKv
+            
+            
+            ">
+            <li class="pvs-list__item--with-top-padding eZkEHxEEdOsaqMBAlqnHsPLrZsxZuV">
+              
+          
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          
+      <div class="dyuFBNEBzZkbLnNFwffAwrJtNZzdZTpxzqtWA
+          full-width t-14 t-normal t-black display-flex align-items-center" dir="ltr">
+        
+    <div class="VOCaNzCXCIRQZHtvKudkdQEYJUtymukYvcy
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+         full-width" style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+        <span aria-hidden="true"><!---->The Manage and More program of the UnternehmerTUM aims to qualify entrepreneurial talents for their ongoing professional career. Each semester 20 particularly motivated students are selected for this 18-month program. The scholarship holders develop themselves on a personal and professional level throughout innovative project work, workshops, coachings and mentoring, in order to take future responsibilities as founders or executives.<!----></span><span class="visually-hidden"><!---->The Manage and More program of the UnternehmerTUM aims to qualify entrepreneurial talents for their ongoing professional career. Each semester 20 particularly motivated students are selected for this 18-month program. The scholarship holders develop themselves on a personal and professional level throughout innovative project work, workshops, coachings and mentoring, in order to take future responsibilities as founders or executives.<!----></span>
+
+<!---->    </div>
+  
+      </div>
+  
+<!---->      
+      </div>
+      
+    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+<!---->
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+        <div class="pvs-list__footer-wrapper">
+          
+        <div class="pv-action ">
+          
+      <div>
+        
+        <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center full-width align-items-center artdeco-button--fluid
+            
+            " target="_self" aria-hidden="false" id="navigation-index-see-all-education" href="https://www.linkedin.com/in/sina-rezaei-141953201/details/education?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADOTZgEB8fPW_Vk_sgcvsfJ3qBIHnlYOagI">
+<!---->            <span class="pvs-navigation__text">
+              Show all 3 educations
+            </span>
+            <div class="pvs-navigation__icon">
+              <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="arrow-right-small" data-rtl="true">
+<!---->    
+    <use href="#arrow-right-small" width="16" height="16"></use>
+</svg>
+
+            </div>
+        </a>
+  
+      </div>
+  
+        </div>
+  
+        </div>
+    </div>
+  
+  
+<!---->        
+</section>
