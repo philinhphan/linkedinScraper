@@ -67,8 +67,8 @@ def linkedin_login(driver, email, password):
     password_field.send_keys(Keys.RETURN)
     logger.info("Login form submitted")
     
-    # Wait for login to complete
-    time.sleep(5)
+    # Wait for login to complete and allow time for security checks
+    time.sleep(30)
     
     # Check if login was successful
     if "feed" in driver.current_url or "checkpoint" in driver.current_url:
@@ -671,3 +671,14 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+
+
+
+
+    
